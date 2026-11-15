@@ -1,0 +1,90 @@
+[
+    {
+        "event_id": "EVT-2026-000001",
+        "investigation_id": "INVG-2026-000001",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000202. Risk score: 40.00. Priority: HIGH.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000002",
+        "investigation_id": "INVG-2026-000002",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000101. Risk score: 30.00. Priority: MEDIUM.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000003",
+        "investigation_id": "INVG-2026-000003",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000001. Risk score: 25.00. Priority: MEDIUM.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000004",
+        "investigation_id": "INVG-2026-000004",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000002. Risk score: 25.00. Priority: MEDIUM.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000005",
+        "investigation_id": "INVG-2026-000005",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000250. Risk score: 25.00. Priority: MEDIUM.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000006",
+        "investigation_id": "INVG-2026-000006",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000501. Risk score: 10.00. Priority: LOW.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000007",
+        "investigation_id": "INVG-2026-000007",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000502. Risk score: 10.00. Priority: LOW.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000008",
+        "investigation_id": "INVG-2026-000008",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000503. Risk score: 10.00. Priority: LOW.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000009",
+        "investigation_id": "INVG-2026-000009",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000504. Risk score: 10.00. Priority: LOW.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000010",
+        "investigation_id": "INVG-2026-000010",
+        "event_type": "INVESTIGATION_OPENED",
+        "event_description": "Investigation opened for claim CLM-2026-000505. Risk score: 10.00. Priority: LOW.",
+        "event_timestamp": "2026-11-15 14:38:52",
+        "performed_by": "SYSTEM"
+    },
+    {
+        "event_id": "EVT-2026-000011",
+        "investigation_id": "INVG-2026-000001",
+        "event_type": "STATUS_CHANGED",
+        "event_description": "Investigation status changed from OPEN to IN_PROGRESS for claim CLM-2026-000202.",
+        "event_timestamp": "2026-11-15 14:41:56",
+        "performed_by": "SYSTEM_USER"
+    }
+]

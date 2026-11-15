@@ -1,0 +1,10 @@
+anomaly_id,entity_type,entity_id,anomaly_type,expected_label,description
+ANOM-001,CLAIM,CLM-2026-000101,INVALID_POLICY_REFERENCE,SUSPICIOUS,Invalid policy reference: POL-INVALID-999999. Original policy was POL-2026-000101.
+ANOM-002,INVOICE,2,DUPLICATE_INVOICE,SUSPICIOUS,Invoice number INV-PRV-PRV-000001-000001 is repeated across claims CLM-2026-000001 and CLM-2026-000002.
+ANOM-003,PAYMENT,PAY-2026-000202,PAYMENT_OVERSTATEMENT,SUSPICIOUS,Payment amount 109155.59 exceeds approved amount 94155.59.
+ANOM-004-01,CLAIMANT,CTM-2026-000501,SHARED_CONTACT_PATTERN,SUSPICIOUS,"Claimant shares phone number 9999999999 with four other claimants. This is a suspicious signal, not proof of fraud."
+ANOM-004-02,CLAIMANT,CTM-2026-000502,SHARED_CONTACT_PATTERN,SUSPICIOUS,"Claimant shares phone number 9999999999 with four other claimants. This is a suspicious signal, not proof of fraud."
+ANOM-004-03,CLAIMANT,CTM-2026-000503,SHARED_CONTACT_PATTERN,SUSPICIOUS,"Claimant shares phone number 9999999999 with four other claimants. This is a suspicious signal, not proof of fraud."
+ANOM-004-04,CLAIMANT,CTM-2026-000504,SHARED_CONTACT_PATTERN,SUSPICIOUS,"Claimant shares phone number 9999999999 with four other claimants. This is a suspicious signal, not proof of fraud."
+ANOM-004-05,CLAIMANT,CTM-2026-000505,SHARED_CONTACT_PATTERN,SUSPICIOUS,"Claimant shares phone number 9999999999 with four other claimants. This is a suspicious signal, not proof of fraud."
+ANOM-005,RELATIONSHIP_EDGE,EDGE-005250,INVALID_PROVIDER_RELATIONSHIP,SUSPICIOUS,Edge references nonexistent provider PRV-999999. Expected provider: PRV-000250. Original edge target: PRV-000250.

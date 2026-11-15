@@ -1,0 +1,12 @@
+Metric,Value
+total_claims,5000
+actual_positive,10
+predicted_positive,10
+true_positives,10
+false_positives,0
+true_negatives,4990
+false_negatives,0
+precision,1.0
+recall,1.0
+f1_score,1.0
+accuracy,1.0

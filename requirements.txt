@@ -1,0 +1,10 @@
+
+pandas
+numpy
+faker
+networkx
+streamlit
+plotly
+pytest
+mysql-connector-python
+python-dotenv

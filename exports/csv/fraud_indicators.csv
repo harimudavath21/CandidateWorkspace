@@ -1,0 +1,11 @@
+﻿indicator_id,claim_id,indicator_type,indicator_description,severity,risk_score,detected_at
+DET-EDG-EDGE-005250,CLM-2026-000250,INVALID_PROVIDER_RELATIONSHIP,Relationship edge EDGE-005250 references nonexistent provider PRV-999999.,HIGH,25.00,2026-11-15 14:31:09
+DET-INV-0000000001,CLM-2026-000001,DUPLICATE_INVOICE,Invoice number INV-PRV-PRV-000001-000001 is duplicated. Invoice record: 1. Invoice amount: 13710.43.,HIGH,25.00,2026-11-15 14:31:09
+DET-INV-0000000002,CLM-2026-000002,DUPLICATE_INVOICE,Invoice number INV-PRV-PRV-000001-000001 is duplicated. Invoice record: 2. Invoice amount: 94357.45.,HIGH,25.00,2026-11-15 14:31:09
+DET-PAY-PAY-2026-000202,CLM-2026-000202,PAYMENT_OVERSTATEMENT,Payment PAY-2026-000202 exceeds the approved claim amount by 15000.00. Paid: 109155.59; approved: 94155.59.,CRITICAL,40.00,2026-11-15 14:31:09
+DET-POL-CLM-2026-000101,CLM-2026-000101,INVALID_POLICY_REFERENCE,Claim references nonexistent policy POL-INVALID-999999. Claim references a policy ID that does not exist.,HIGH,30.00,2026-11-15 14:31:09
+DET-SHR-CTM-2026-000501,CLM-2026-000501,SHARED_CONTACT_PATTERN,"Claimant CTM-2026-000501 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",MEDIUM,10.00,2026-11-15 14:31:09
+DET-SHR-CTM-2026-000502,CLM-2026-000502,SHARED_CONTACT_PATTERN,"Claimant CTM-2026-000502 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",MEDIUM,10.00,2026-11-15 14:31:09
+DET-SHR-CTM-2026-000503,CLM-2026-000503,SHARED_CONTACT_PATTERN,"Claimant CTM-2026-000503 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",MEDIUM,10.00,2026-11-15 14:31:09
+DET-SHR-CTM-2026-000504,CLM-2026-000504,SHARED_CONTACT_PATTERN,"Claimant CTM-2026-000504 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",MEDIUM,10.00,2026-11-15 14:31:09
+DET-SHR-CTM-2026-000505,CLM-2026-000505,SHARED_CONTACT_PATTERN,"Claimant CTM-2026-000505 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",MEDIUM,10.00,2026-11-15 14:31:09

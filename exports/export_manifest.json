@@ -1,0 +1,143 @@
+{
+    "database": "hackathon",
+    "total_tables": 15,
+    "verification": "PASS",
+    "sql_backup": "exports\\sql\\hackathon_backup.sql",
+    "tables": [
+        {
+            "table": "claimants",
+            "database_rows": 2000,
+            "csv_path": "exports\\csv\\claimants.csv",
+            "json_path": "exports\\json\\claimants.json",
+            "csv_rows": 2000,
+            "json_rows": 2000,
+            "verification": "PASS"
+        },
+        {
+            "table": "policies",
+            "database_rows": 2000,
+            "csv_path": "exports\\csv\\policies.csv",
+            "json_path": "exports\\json\\policies.json",
+            "csv_rows": 2000,
+            "json_rows": 2000,
+            "verification": "PASS"
+        },
+        {
+            "table": "incidents",
+            "database_rows": 5000,
+            "csv_path": "exports\\csv\\incidents.csv",
+            "json_path": "exports\\json\\incidents.json",
+            "csv_rows": 5000,
+            "json_rows": 5000,
+            "verification": "PASS"
+        },
+        {
+            "table": "providers",
+            "database_rows": 500,
+            "csv_path": "exports\\csv\\providers.csv",
+            "json_path": "exports\\json\\providers.json",
+            "csv_rows": 500,
+            "json_rows": 500,
+            "verification": "PASS"
+        },
+        {
+            "table": "claims",
+            "database_rows": 5000,
+            "csv_path": "exports\\csv\\claims.csv",
+            "json_path": "exports\\json\\claims.json",
+            "csv_rows": 5000,
+            "json_rows": 5000,
+            "verification": "PASS"
+        },
+        {
+            "table": "invoices",
+            "database_rows": 5000,
+            "csv_path": "exports\\csv\\invoices.csv",
+            "json_path": "exports\\json\\invoices.json",
+            "csv_rows": 5000,
+            "json_rows": 5000,
+            "verification": "PASS"
+        },
+        {
+            "table": "payments",
+            "database_rows": 5000,
+            "csv_path": "exports\\csv\\payments.csv",
+            "json_path": "exports\\json\\payments.json",
+            "csv_rows": 5000,
+            "json_rows": 5000,
+            "verification": "PASS"
+        },
+        {
+            "table": "relationship_edges",
+            "database_rows": 8000,
+            "csv_path": "exports\\csv\\relationship_edges.csv",
+            "json_path": "exports\\json\\relationship_edges.json",
+            "csv_rows": 8000,
+            "json_rows": 8000,
+            "verification": "PASS"
+        },
+        {
+            "table": "fraud_indicators",
+            "database_rows": 10,
+            "csv_path": "exports\\csv\\fraud_indicators.csv",
+            "json_path": "exports\\json\\fraud_indicators.json",
+            "csv_rows": 10,
+            "json_rows": 10,
+            "verification": "PASS"
+        },
+        {
+            "table": "claim_risk_scores",
+            "database_rows": 5000,
+            "csv_path": "exports\\csv\\claim_risk_scores.csv",
+            "json_path": "exports\\json\\claim_risk_scores.json",
+            "csv_rows": 5000,
+            "json_rows": 5000,
+            "verification": "PASS"
+        },
+        {
+            "table": "investigations",
+            "database_rows": 10,
+            "csv_path": "exports\\csv\\investigations.csv",
+            "json_path": "exports\\json\\investigations.json",
+            "csv_rows": 10,
+            "json_rows": 10,
+            "verification": "PASS"
+        },
+        {
+            "table": "investigation_events",
+            "database_rows": 11,
+            "csv_path": "exports\\csv\\investigation_events.csv",
+            "json_path": "exports\\json\\investigation_events.json",
+            "csv_rows": 11,
+            "json_rows": 11,
+            "verification": "PASS"
+        },
+        {
+            "table": "audit_logs",
+            "database_rows": 13,
+            "csv_path": "exports\\csv\\audit_logs.csv",
+            "json_path": "exports\\json\\audit_logs.json",
+            "csv_rows": 13,
+            "json_rows": 13,
+            "verification": "PASS"
+        },
+        {
+            "table": "data_quality_issues",
+            "database_rows": 1,
+            "csv_path": "exports\\csv\\data_quality_issues.csv",
+            "json_path": "exports\\json\\data_quality_issues.json",
+            "csv_rows": 1,
+            "json_rows": 1,
+            "verification": "PASS"
+        },
+        {
+            "table": "investigation_evidence",
+            "database_rows": 1,
+            "csv_path": "exports\\csv\\investigation_evidence.csv",
+            "json_path": "exports\\json\\investigation_evidence.json",
+            "csv_rows": 1,
+            "json_rows": 1,
+            "verification": "PASS"
+        }
+    ]
+}

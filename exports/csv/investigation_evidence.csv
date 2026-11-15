@@ -1,0 +1,2 @@
+﻿evidence_id,investigation_id,evidence_type,evidence_reference,evidence_description,collected_by,collected_at,evidence_status
+EVD-2026-000001,INVG-2026-000001,PAYMENT_RECORD,PAY-2026-000202,Payment amount exceeds the approved claim amount.,Investigator-01,2026-11-15 14:47:19,UNDER_REVIEW

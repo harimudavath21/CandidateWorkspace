@@ -1,0 +1,92 @@
+[
+    {
+        "indicator_id": "DET-EDG-EDGE-005250",
+        "claim_id": "CLM-2026-000250",
+        "indicator_type": "INVALID_PROVIDER_RELATIONSHIP",
+        "indicator_description": "Relationship edge EDGE-005250 references nonexistent provider PRV-999999.",
+        "severity": "HIGH",
+        "risk_score": "25.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-INV-0000000001",
+        "claim_id": "CLM-2026-000001",
+        "indicator_type": "DUPLICATE_INVOICE",
+        "indicator_description": "Invoice number INV-PRV-PRV-000001-000001 is duplicated. Invoice record: 1. Invoice amount: 13710.43.",
+        "severity": "HIGH",
+        "risk_score": "25.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-INV-0000000002",
+        "claim_id": "CLM-2026-000002",
+        "indicator_type": "DUPLICATE_INVOICE",
+        "indicator_description": "Invoice number INV-PRV-PRV-000001-000001 is duplicated. Invoice record: 2. Invoice amount: 94357.45.",
+        "severity": "HIGH",
+        "risk_score": "25.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-PAY-PAY-2026-000202",
+        "claim_id": "CLM-2026-000202",
+        "indicator_type": "PAYMENT_OVERSTATEMENT",
+        "indicator_description": "Payment PAY-2026-000202 exceeds the approved claim amount by 15000.00. Paid: 109155.59; approved: 94155.59.",
+        "severity": "CRITICAL",
+        "risk_score": "40.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-POL-CLM-2026-000101",
+        "claim_id": "CLM-2026-000101",
+        "indicator_type": "INVALID_POLICY_REFERENCE",
+        "indicator_description": "Claim references nonexistent policy POL-INVALID-999999. Claim references a policy ID that does not exist.",
+        "severity": "HIGH",
+        "risk_score": "30.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-SHR-CTM-2026-000501",
+        "claim_id": "CLM-2026-000501",
+        "indicator_type": "SHARED_CONTACT_PATTERN",
+        "indicator_description": "Claimant CTM-2026-000501 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",
+        "severity": "MEDIUM",
+        "risk_score": "10.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-SHR-CTM-2026-000502",
+        "claim_id": "CLM-2026-000502",
+        "indicator_type": "SHARED_CONTACT_PATTERN",
+        "indicator_description": "Claimant CTM-2026-000502 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",
+        "severity": "MEDIUM",
+        "risk_score": "10.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-SHR-CTM-2026-000503",
+        "claim_id": "CLM-2026-000503",
+        "indicator_type": "SHARED_CONTACT_PATTERN",
+        "indicator_description": "Claimant CTM-2026-000503 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",
+        "severity": "MEDIUM",
+        "risk_score": "10.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-SHR-CTM-2026-000504",
+        "claim_id": "CLM-2026-000504",
+        "indicator_type": "SHARED_CONTACT_PATTERN",
+        "indicator_description": "Claimant CTM-2026-000504 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",
+        "severity": "MEDIUM",
+        "risk_score": "10.00",
+        "detected_at": "2026-11-15 14:31:09"
+    },
+    {
+        "indicator_id": "DET-SHR-CTM-2026-000505",
+        "claim_id": "CLM-2026-000505",
+        "indicator_type": "SHARED_CONTACT_PATTERN",
+        "indicator_description": "Claimant CTM-2026-000505 shares phone number 9999999999 with 4 other claimant(s). This is a suspicious signal requiring review, not proof of fraud.",
+        "severity": "MEDIUM",
+        "risk_score": "10.00",
+        "detected_at": "2026-11-15 14:31:09"
+    }
+]

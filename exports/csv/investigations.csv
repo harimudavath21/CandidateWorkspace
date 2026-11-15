@@ -1,0 +1,11 @@
+﻿investigation_id,claim_id,assigned_investigator,investigation_status,priority,risk_score,opened_at,closed_at,investigation_notes
+INVG-2026-000001,CLM-2026-000202,Investigator-01,IN_PROGRESS,HIGH,40.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: PAYMENT_OVERSTATEMENT
+INVG-2026-000002,CLM-2026-000101,Investigator-02,OPEN,MEDIUM,30.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: INVALID_POLICY_REFERENCE
+INVG-2026-000003,CLM-2026-000001,Investigator-03,OPEN,MEDIUM,25.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: DUPLICATE_INVOICE
+INVG-2026-000004,CLM-2026-000002,Investigator-04,OPEN,MEDIUM,25.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: DUPLICATE_INVOICE
+INVG-2026-000005,CLM-2026-000250,Investigator-05,OPEN,MEDIUM,25.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: INVALID_PROVIDER_RELATIONSHIP
+INVG-2026-000006,CLM-2026-000501,Investigator-01,OPEN,LOW,10.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: SHARED_CONTACT_PATTERN
+INVG-2026-000007,CLM-2026-000502,Investigator-02,OPEN,LOW,10.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: SHARED_CONTACT_PATTERN
+INVG-2026-000008,CLM-2026-000503,Investigator-03,OPEN,LOW,10.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: SHARED_CONTACT_PATTERN
+INVG-2026-000009,CLM-2026-000504,Investigator-04,OPEN,LOW,10.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: SHARED_CONTACT_PATTERN
+INVG-2026-000010,CLM-2026-000505,Investigator-05,OPEN,LOW,10.00,2026-11-15 14:38:52,,Automatically created for review. Detected indicators: 1. Risk explanation: SHARED_CONTACT_PATTERN

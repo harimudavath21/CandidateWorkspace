@@ -1,0 +1,2 @@
+﻿issue_id,entity_type,entity_id,field_name,invalid_value,issue_type,issue_description,detected_at,resolution_status
+2,CLAIM,CLM-2026-000101,policy_id,POL-INVALID-999999,INVALID_POLICY_REFERENCE,Claim references a policy ID that does not exist.,2026-11-15 14:27:49,OPEN

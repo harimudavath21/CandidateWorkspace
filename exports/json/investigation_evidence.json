@@ -1,0 +1,12 @@
+[
+    {
+        "evidence_id": "EVD-2026-000001",
+        "investigation_id": "INVG-2026-000001",
+        "evidence_type": "PAYMENT_RECORD",
+        "evidence_reference": "PAY-2026-000202",
+        "evidence_description": "Payment amount exceeds the approved claim amount.",
+        "collected_by": "Investigator-01",
+        "collected_at": "2026-11-15 14:47:19",
+        "evidence_status": "UNDER_REVIEW"
+    }
+]

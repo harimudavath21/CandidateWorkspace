@@ -1,0 +1,132 @@
+[
+    {
+        "audit_id": 1,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000001",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000202\", \"priority\": \"HIGH\", \"risk_score\": 40.0, \"investigation_id\": \"INVG-2026-000001\", \"assigned_investigator\": \"Investigator-01\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 2,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000002",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000101\", \"priority\": \"MEDIUM\", \"risk_score\": 30.0, \"investigation_id\": \"INVG-2026-000002\", \"assigned_investigator\": \"Investigator-02\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 3,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000003",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000001\", \"priority\": \"MEDIUM\", \"risk_score\": 25.0, \"investigation_id\": \"INVG-2026-000003\", \"assigned_investigator\": \"Investigator-03\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 4,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000004",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000002\", \"priority\": \"MEDIUM\", \"risk_score\": 25.0, \"investigation_id\": \"INVG-2026-000004\", \"assigned_investigator\": \"Investigator-04\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 5,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000005",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000250\", \"priority\": \"MEDIUM\", \"risk_score\": 25.0, \"investigation_id\": \"INVG-2026-000005\", \"assigned_investigator\": \"Investigator-05\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 6,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000006",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000501\", \"priority\": \"LOW\", \"risk_score\": 10.0, \"investigation_id\": \"INVG-2026-000006\", \"assigned_investigator\": \"Investigator-01\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 7,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000007",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000502\", \"priority\": \"LOW\", \"risk_score\": 10.0, \"investigation_id\": \"INVG-2026-000007\", \"assigned_investigator\": \"Investigator-02\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 8,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000008",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000503\", \"priority\": \"LOW\", \"risk_score\": 10.0, \"investigation_id\": \"INVG-2026-000008\", \"assigned_investigator\": \"Investigator-03\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 9,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000009",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000504\", \"priority\": \"LOW\", \"risk_score\": 10.0, \"investigation_id\": \"INVG-2026-000009\", \"assigned_investigator\": \"Investigator-04\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 10,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000010",
+        "action": "INVESTIGATION_CREATED",
+        "old_value": null,
+        "new_value": "{\"status\": \"OPEN\", \"claim_id\": \"CLM-2026-000505\", \"priority\": \"LOW\", \"risk_score\": 10.0, \"investigation_id\": \"INVG-2026-000010\", \"assigned_investigator\": \"Investigator-05\"}",
+        "performed_by": "SYSTEM",
+        "performed_at": "2026-11-15 14:38:52"
+    },
+    {
+        "audit_id": 11,
+        "entity_type": "INVESTIGATION",
+        "entity_id": "INVG-2026-000001",
+        "action": "INVESTIGATION_STATUS_UPDATED",
+        "old_value": "{\"investigation_status\": \"OPEN\"}",
+        "new_value": "{\"investigation_status\": \"IN_PROGRESS\"}",
+        "performed_by": "SYSTEM_USER",
+        "performed_at": "2026-11-15 14:41:56"
+    },
+    {
+        "audit_id": 12,
+        "entity_type": "EVIDENCE",
+        "entity_id": "EVD-2026-000001",
+        "action": "EVIDENCE_REGISTERED",
+        "old_value": null,
+        "new_value": "{\"evidence_id\": \"EVD-2026-000001\", \"evidence_type\": \"PAYMENT_RECORD\", \"evidence_status\": \"AVAILABLE\", \"investigation_id\": \"INVG-2026-000001\", \"evidence_reference\": \"PAY-2026-000202\"}",
+        "performed_by": "Investigator-01",
+        "performed_at": "2026-11-15 14:47:19"
+    },
+    {
+        "audit_id": 13,
+        "entity_type": "EVIDENCE",
+        "entity_id": "EVD-2026-000001",
+        "action": "EVIDENCE_STATUS_UPDATED",
+        "old_value": "{\"evidence_status\": \"AVAILABLE\"}",
+        "new_value": "{\"evidence_status\": \"UNDER_REVIEW\"}",
+        "performed_by": "SYSTEM_USER",
+        "performed_at": "2026-11-15 14:50:13"
+    }
+]

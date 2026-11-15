@@ -1,0 +1,13 @@
+[
+    {
+        "issue_id": 2,
+        "entity_type": "CLAIM",
+        "entity_id": "CLM-2026-000101",
+        "field_name": "policy_id",
+        "invalid_value": "POL-INVALID-999999",
+        "issue_type": "INVALID_POLICY_REFERENCE",
+        "issue_description": "Claim references a policy ID that does not exist.",
+        "detected_at": "2026-11-15 14:27:49",
+        "resolution_status": "OPEN"
+    }
+]

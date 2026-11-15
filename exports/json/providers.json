@@ -1,0 +1,4002 @@
+[
+    {
+        "provider_id": "PRV-000001",
+        "provider_name": "D’Alia and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "44/02\nSane Street\nShahjahanpur-857634",
+        "phone": "06627788392",
+        "registration_date": "2020-07-09"
+    },
+    {
+        "provider_id": "PRV-000002",
+        "provider_name": "Chander and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "46\nPau, Ratlam-690243",
+        "phone": "8382781533",
+        "registration_date": "2021-12-18"
+    },
+    {
+        "provider_id": "PRV-000003",
+        "provider_name": "Warrior, Manda and Lala",
+        "provider_type": "Vehicle Repair",
+        "address": "53/225, Merchant Ganj\nAsansol-972374",
+        "phone": "4360263046",
+        "registration_date": "2020-11-16"
+    },
+    {
+        "provider_id": "PRV-000004",
+        "provider_name": "Nadkarni, Dasgupta and Bhagat",
+        "provider_type": "Legal Service",
+        "address": "69/91\nPalla Ganj\nThiruvananthapuram-398905",
+        "phone": "05504796114",
+        "registration_date": "2018-03-01"
+    },
+    {
+        "provider_id": "PRV-000005",
+        "provider_name": "Sood, Vohra and Kunda",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 37\nSrivastava Circle, Sasaram 743242",
+        "phone": "9974687907",
+        "registration_date": "2018-12-30"
+    },
+    {
+        "provider_id": "PRV-000006",
+        "provider_name": "Handa, Ramanathan and Balasubramanian",
+        "provider_type": "Pharmacy",
+        "address": "58, Bhardwaj Road, Raiganj-955894",
+        "phone": "06624511695",
+        "registration_date": "2020-05-02"
+    },
+    {
+        "provider_id": "PRV-000007",
+        "provider_name": "Dube and Sons",
+        "provider_type": "Legal Service",
+        "address": "40, Sachdeva Zila\nRajpur Sonarpur-447837",
+        "phone": "9689944543",
+        "registration_date": "2019-11-04"
+    },
+    {
+        "provider_id": "PRV-000008",
+        "provider_name": "Thakur and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 67\nDevi Marg\nJalandhar-601315",
+        "phone": "8720542900",
+        "registration_date": "2020-04-05"
+    },
+    {
+        "provider_id": "PRV-000009",
+        "provider_name": "Bumb-Kaul",
+        "provider_type": "Legal Service",
+        "address": "61/599\nChatterjee Zila, Bhusawal-091896",
+        "phone": "+916228875805",
+        "registration_date": "2022-01-03"
+    },
+    {
+        "provider_id": "PRV-000010",
+        "provider_name": "Sant, Bandi and Madan",
+        "provider_type": "Vehicle Repair",
+        "address": "21, Singh Nagar, Gwalior-694414",
+        "phone": "4333484812",
+        "registration_date": "2024-02-29"
+    },
+    {
+        "provider_id": "PRV-000011",
+        "provider_name": "Chawla-Jhaveri",
+        "provider_type": "Hospital",
+        "address": "04/279\nDalal Nagar\nDarbhanga-086860",
+        "phone": "5929120506",
+        "registration_date": "2023-11-10"
+    },
+    {
+        "provider_id": "PRV-000012",
+        "provider_name": "Narasimhan-Nayar",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 560\nKrish Path, Muzaffarpur-068167",
+        "phone": "00492856734",
+        "registration_date": "2017-03-02"
+    },
+    {
+        "provider_id": "PRV-000013",
+        "provider_name": "Saraf, Nair and Acharya",
+        "provider_type": "Pharmacy",
+        "address": "152\nHanda Road\nFatehpur-927491",
+        "phone": "+910631916283",
+        "registration_date": "2024-02-23"
+    },
+    {
+        "provider_id": "PRV-000014",
+        "provider_name": "Dani-Mammen",
+        "provider_type": "Vehicle Repair",
+        "address": "27/640\nKade Road\nRaichur 036363",
+        "phone": "+918212720728",
+        "registration_date": "2020-10-23"
+    },
+    {
+        "provider_id": "PRV-000015",
+        "provider_name": "Nair Inc",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 817, Koshy Circle, Bulandshahr 525434",
+        "phone": "+919737651924",
+        "registration_date": "2022-11-29"
+    },
+    {
+        "provider_id": "PRV-000016",
+        "provider_name": "Murthy-Wagle",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 69\nBhargava Chowk, Raurkela Industrial Township-280826",
+        "phone": "04871115133",
+        "registration_date": "2024-03-15"
+    },
+    {
+        "provider_id": "PRV-000017",
+        "provider_name": "Dube-Naik",
+        "provider_type": "Legal Service",
+        "address": "527\nBahl Zila, Madanapalle-851467",
+        "phone": "03661404451",
+        "registration_date": "2018-12-10"
+    },
+    {
+        "provider_id": "PRV-000018",
+        "provider_name": "Sule PLC",
+        "provider_type": "Hospital",
+        "address": "259, Bath Nagar\nPanvel-937244",
+        "phone": "+914964956828",
+        "registration_date": "2017-08-02"
+    },
+    {
+        "provider_id": "PRV-000019",
+        "provider_name": "Khurana Inc",
+        "provider_type": "Hospital",
+        "address": "56, Kaul Street, Ongole 552699",
+        "phone": "2290838246",
+        "registration_date": "2024-07-31"
+    },
+    {
+        "provider_id": "PRV-000020",
+        "provider_name": "Raj, Swaminathan and Barman",
+        "provider_type": "Diagnostic Center",
+        "address": "35, Mann Circle, Bettiah 723998",
+        "phone": "+915365911443",
+        "registration_date": "2020-12-22"
+    },
+    {
+        "provider_id": "PRV-000021",
+        "provider_name": "Goswami, Shere and Nori",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 410, Gara Path\nFarrukhabad-403765",
+        "phone": "+919026849216",
+        "registration_date": "2019-12-13"
+    },
+    {
+        "provider_id": "PRV-000022",
+        "provider_name": "Koshy-Shere",
+        "provider_type": "Vehicle Repair",
+        "address": "81\nBail Path\nAhmedabad-483980",
+        "phone": "01710487755",
+        "registration_date": "2021-03-23"
+    },
+    {
+        "provider_id": "PRV-000023",
+        "provider_name": "Raja and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "99/80\nKota Ganj\nParbhani 379656",
+        "phone": "+919614717065",
+        "registration_date": "2019-12-16"
+    },
+    {
+        "provider_id": "PRV-000024",
+        "provider_name": "Kamdar-Srinivas",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 622\nWalia Path, Sasaram 886514",
+        "phone": "07858968554",
+        "registration_date": "2024-11-04"
+    },
+    {
+        "provider_id": "PRV-000025",
+        "provider_name": "Pingle, Kata and Andra",
+        "provider_type": "Diagnostic Center",
+        "address": "260\nSrinivas Ganj\nKaraikudi 196190",
+        "phone": "3025457550",
+        "registration_date": "2023-11-10"
+    },
+    {
+        "provider_id": "PRV-000026",
+        "provider_name": "Chaudhary Group",
+        "provider_type": "Vehicle Repair",
+        "address": "00/455, Mahal Road, Raebareli 505359",
+        "phone": "4033622718",
+        "registration_date": "2023-08-13"
+    },
+    {
+        "provider_id": "PRV-000027",
+        "provider_name": "Badami-Wali",
+        "provider_type": "Legal Service",
+        "address": "71/758, Radhakrishnan Nagar, Khandwa 104458",
+        "phone": "+911651524936",
+        "registration_date": "2026-02-09"
+    },
+    {
+        "provider_id": "PRV-000028",
+        "provider_name": "Talwar-Dhingra",
+        "provider_type": "Pharmacy",
+        "address": "71\nKumer Chowk\nSilchar-096407",
+        "phone": "+918527302968",
+        "registration_date": "2018-10-19"
+    },
+    {
+        "provider_id": "PRV-000029",
+        "provider_name": "Bedi Inc",
+        "provider_type": "Vehicle Repair",
+        "address": "52/95\nAgate Nagar\nPudukkottai-100785",
+        "phone": "2832710116",
+        "registration_date": "2019-02-07"
+    },
+    {
+        "provider_id": "PRV-000030",
+        "provider_name": "Suresh-Kakar",
+        "provider_type": "Hospital",
+        "address": "23/42\nCherian Chowk\nBangalore 149392",
+        "phone": "+911680816579",
+        "registration_date": "2017-01-08"
+    },
+    {
+        "provider_id": "PRV-000031",
+        "provider_name": "Bera Inc",
+        "provider_type": "Vehicle Repair",
+        "address": "29/454, Dara Circle, Nanded-866018",
+        "phone": "+916202632587",
+        "registration_date": "2025-07-18"
+    },
+    {
+        "provider_id": "PRV-000032",
+        "provider_name": "Arya LLC",
+        "provider_type": "Legal Service",
+        "address": "36\nMane Path, Burhanpur 622085",
+        "phone": "07071000440",
+        "registration_date": "2022-08-26"
+    },
+    {
+        "provider_id": "PRV-000033",
+        "provider_name": "Bath, Wali and Goswami",
+        "provider_type": "Diagnostic Center",
+        "address": "66/763, Nadig, Alappuzha-588616",
+        "phone": "+912607690220",
+        "registration_date": "2021-02-27"
+    },
+    {
+        "provider_id": "PRV-000034",
+        "provider_name": "Gara-Raja",
+        "provider_type": "Pharmacy",
+        "address": "27, Sidhu Chowk\nSrikakulam 512910",
+        "phone": "07389302412",
+        "registration_date": "2026-04-10"
+    },
+    {
+        "provider_id": "PRV-000035",
+        "provider_name": "Pingle-Korpal",
+        "provider_type": "Pharmacy",
+        "address": "48/96, Dhingra Nagar\nBidar-936100",
+        "phone": "0189088931",
+        "registration_date": "2018-10-18"
+    },
+    {
+        "provider_id": "PRV-000036",
+        "provider_name": "Sundaram, Khatri and Kapur",
+        "provider_type": "Legal Service",
+        "address": "71/501, Bandi Street\nDibrugarh 800317",
+        "phone": "08781735568",
+        "registration_date": "2020-05-03"
+    },
+    {
+        "provider_id": "PRV-000037",
+        "provider_name": "Gara-Dass",
+        "provider_type": "Vehicle Repair",
+        "address": "06/84\nKakar Street\nShahjahanpur-666051",
+        "phone": "7458243397",
+        "registration_date": "2024-09-12"
+    },
+    {
+        "provider_id": "PRV-000038",
+        "provider_name": "Pingle LLC",
+        "provider_type": "Hospital",
+        "address": "256\nSuri Ganj, Aurangabad-276409",
+        "phone": "+919448489041",
+        "registration_date": "2017-07-21"
+    },
+    {
+        "provider_id": "PRV-000039",
+        "provider_name": "Saraf, Kala and Krishnan",
+        "provider_type": "Vehicle Repair",
+        "address": "86\nPeri Nagar, Ozhukarai 438374",
+        "phone": "7173238231",
+        "registration_date": "2022-10-14"
+    },
+    {
+        "provider_id": "PRV-000040",
+        "provider_name": "Prabhu, Sheth and Sahota",
+        "provider_type": "Vehicle Repair",
+        "address": "56, Johal Ganj\nGiridih 186534",
+        "phone": "09723080823",
+        "registration_date": "2023-10-30"
+    },
+    {
+        "provider_id": "PRV-000041",
+        "provider_name": "Brar Ltd",
+        "provider_type": "Hospital",
+        "address": "897, Bora Circle\nShahjahanpur-293813",
+        "phone": "2673659372",
+        "registration_date": "2019-06-28"
+    },
+    {
+        "provider_id": "PRV-000042",
+        "provider_name": "Dass-Vora",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 219\nBanik Nagar\nKolkata 625727",
+        "phone": "+911531844425",
+        "registration_date": "2021-05-27"
+    },
+    {
+        "provider_id": "PRV-000043",
+        "provider_name": "Chopra-Prashad",
+        "provider_type": "Legal Service",
+        "address": "H.No. 175\nBali Marg, Bokaro-148055",
+        "phone": "08790914845",
+        "registration_date": "2021-08-25"
+    },
+    {
+        "provider_id": "PRV-000044",
+        "provider_name": "Chadha LLC",
+        "provider_type": "Diagnostic Center",
+        "address": "204\nTak Street\nRourkela 202919",
+        "phone": "07417158507",
+        "registration_date": "2026-05-02"
+    },
+    {
+        "provider_id": "PRV-000045",
+        "provider_name": "Bhatt-Verma",
+        "provider_type": "Diagnostic Center",
+        "address": "732\nKashyap Road\nMotihari 117021",
+        "phone": "2144096713",
+        "registration_date": "2022-08-21"
+    },
+    {
+        "provider_id": "PRV-000046",
+        "provider_name": "Jani-Sura",
+        "provider_type": "Pharmacy",
+        "address": "50/801, Vohra Street, Dhule 607144",
+        "phone": "+917339215794",
+        "registration_date": "2023-05-18"
+    },
+    {
+        "provider_id": "PRV-000047",
+        "provider_name": "Choudhry-Zachariah",
+        "provider_type": "Vehicle Repair",
+        "address": "863, Dewan\nVasai-Virar 533508",
+        "phone": "7569366827",
+        "registration_date": "2026-10-15"
+    },
+    {
+        "provider_id": "PRV-000048",
+        "provider_name": "Chaudry Inc",
+        "provider_type": "Pharmacy",
+        "address": "995\nBaria Road\nHapur-766310",
+        "phone": "+917879138090",
+        "registration_date": "2018-06-02"
+    },
+    {
+        "provider_id": "PRV-000049",
+        "provider_name": "Char-Halder",
+        "provider_type": "Pharmacy",
+        "address": "38/50, Sen Chowk, Jamnagar 139706",
+        "phone": "02850258832",
+        "registration_date": "2019-04-16"
+    },
+    {
+        "provider_id": "PRV-000050",
+        "provider_name": "Anand Ltd",
+        "provider_type": "Vehicle Repair",
+        "address": "23/724, Mukhopadhyay Ganj\nBhiwandi-269001",
+        "phone": "+912888866652",
+        "registration_date": "2021-11-16"
+    },
+    {
+        "provider_id": "PRV-000051",
+        "provider_name": "Brar, Kalla and Bhardwaj",
+        "provider_type": "Legal Service",
+        "address": "H.No. 96, Batra Street\nThiruvananthapuram-507502",
+        "phone": "9111473950",
+        "registration_date": "2017-08-18"
+    },
+    {
+        "provider_id": "PRV-000052",
+        "provider_name": "Seth, Gera and Baria",
+        "provider_type": "Hospital",
+        "address": "H.No. 94, Palan Street, New Delhi-307612",
+        "phone": "01557014221",
+        "registration_date": "2023-02-14"
+    },
+    {
+        "provider_id": "PRV-000053",
+        "provider_name": "Devan-Kibe",
+        "provider_type": "Diagnostic Center",
+        "address": "715\nRamaswamy Zila\nDeoghar 810421",
+        "phone": "+910788248252",
+        "registration_date": "2019-10-23"
+    },
+    {
+        "provider_id": "PRV-000054",
+        "provider_name": "Som PLC",
+        "provider_type": "Legal Service",
+        "address": "49/392\nWagle, Sagar-932269",
+        "phone": "3497892725",
+        "registration_date": "2026-03-06"
+    },
+    {
+        "provider_id": "PRV-000055",
+        "provider_name": "Sankar LLC",
+        "provider_type": "Hospital",
+        "address": "27\nNarula Marg\nKatni-263317",
+        "phone": "08938162761",
+        "registration_date": "2020-06-28"
+    },
+    {
+        "provider_id": "PRV-000056",
+        "provider_name": "Walla, Borah and Mohanty",
+        "provider_type": "Vehicle Repair",
+        "address": "74, Chaudhary Zila\nKatni-223235",
+        "phone": "01533664559",
+        "registration_date": "2020-10-29"
+    },
+    {
+        "provider_id": "PRV-000057",
+        "provider_name": "Prasad Inc",
+        "provider_type": "Hospital",
+        "address": "55, Dixit Ganj, Panipat 605328",
+        "phone": "+911888192993",
+        "registration_date": "2021-04-29"
+    },
+    {
+        "provider_id": "PRV-000058",
+        "provider_name": "Seth LLC",
+        "provider_type": "Hospital",
+        "address": "489\nSandhu\nNanded 605006",
+        "phone": "2768829594",
+        "registration_date": "2026-01-15"
+    },
+    {
+        "provider_id": "PRV-000059",
+        "provider_name": "Tella and Sons",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 13\nSethi, Bidar 085601",
+        "phone": "+919424738553",
+        "registration_date": "2018-06-23"
+    },
+    {
+        "provider_id": "PRV-000060",
+        "provider_name": "Parsa-Srivastava",
+        "provider_type": "Hospital",
+        "address": "H.No. 531\nLoke Circle, Ahmednagar-766807",
+        "phone": "09003500117",
+        "registration_date": "2025-11-15"
+    },
+    {
+        "provider_id": "PRV-000061",
+        "provider_name": "Dubey Ltd",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 56, Mitra Ganj\nOngole-696067",
+        "phone": "7657106685",
+        "registration_date": "2026-05-14"
+    },
+    {
+        "provider_id": "PRV-000062",
+        "provider_name": "Sampath-Balan",
+        "provider_type": "Hospital",
+        "address": "H.No. 75, Chandran Marg\nKharagpur-812272",
+        "phone": "5677896581",
+        "registration_date": "2025-11-07"
+    },
+    {
+        "provider_id": "PRV-000063",
+        "provider_name": "Shankar, Roy and Sankaran",
+        "provider_type": "Pharmacy",
+        "address": "44, Warrior Zila, Jamalpur 876035",
+        "phone": "3102389507",
+        "registration_date": "2024-05-09"
+    },
+    {
+        "provider_id": "PRV-000064",
+        "provider_name": "Sahni, Acharya and Shetty",
+        "provider_type": "Hospital",
+        "address": "58/599\nArya Road\nChennai 492048",
+        "phone": "5133778263",
+        "registration_date": "2021-04-23"
+    },
+    {
+        "provider_id": "PRV-000065",
+        "provider_name": "Atwal, Shankar and Hayer",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 894, Narula Marg, Ambarnath 478952",
+        "phone": "2027206551",
+        "registration_date": "2017-06-27"
+    },
+    {
+        "provider_id": "PRV-000066",
+        "provider_name": "Korpal and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "57, Boase Road, Unnao-656119",
+        "phone": "+918977973596",
+        "registration_date": "2019-11-15"
+    },
+    {
+        "provider_id": "PRV-000067",
+        "provider_name": "Bala, Raj and Dugar",
+        "provider_type": "Hospital",
+        "address": "86/01\nChakraborty Chowk, Dehradun-010809",
+        "phone": "01727350212",
+        "registration_date": "2025-02-27"
+    },
+    {
+        "provider_id": "PRV-000068",
+        "provider_name": "Kota PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 65, Sangha\nSolapur 222005",
+        "phone": "+915219098106",
+        "registration_date": "2017-06-20"
+    },
+    {
+        "provider_id": "PRV-000069",
+        "provider_name": "Sankar, Gill and Kakar",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 08\nToor Zila\nThrissur 393928",
+        "phone": "6178583160",
+        "registration_date": "2023-03-07"
+    },
+    {
+        "provider_id": "PRV-000070",
+        "provider_name": "Ramakrishnan LLC",
+        "provider_type": "Vehicle Repair",
+        "address": "47, Nigam Nagar, Thiruvananthapuram 714802",
+        "phone": "1293115652",
+        "registration_date": "2019-02-01"
+    },
+    {
+        "provider_id": "PRV-000071",
+        "provider_name": "Bera-Kadakia",
+        "provider_type": "Legal Service",
+        "address": "H.No. 98, Loyal Road, Etawah 919552",
+        "phone": "05441096010",
+        "registration_date": "2021-12-27"
+    },
+    {
+        "provider_id": "PRV-000072",
+        "provider_name": "Ben-Mitra",
+        "provider_type": "Vehicle Repair",
+        "address": "31/192\nNath Street, Katihar-920811",
+        "phone": "+918492658511",
+        "registration_date": "2017-08-25"
+    },
+    {
+        "provider_id": "PRV-000073",
+        "provider_name": "Sarin-Sem",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 791\nPant Marg\nVaranasi-982441",
+        "phone": "2907320405",
+        "registration_date": "2026-09-23"
+    },
+    {
+        "provider_id": "PRV-000074",
+        "provider_name": "Seth-Sawhney",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 64\nBava Road, Gwalior 101321",
+        "phone": "+912246687461",
+        "registration_date": "2020-08-15"
+    },
+    {
+        "provider_id": "PRV-000075",
+        "provider_name": "Gala and Sons",
+        "provider_type": "Legal Service",
+        "address": "H.No. 84\nSant Road, Kharagpur 211410",
+        "phone": "7805844286",
+        "registration_date": "2018-09-07"
+    },
+    {
+        "provider_id": "PRV-000076",
+        "provider_name": "Raghavan Inc",
+        "provider_type": "Pharmacy",
+        "address": "04/60, Sethi Street\nChandigarh 296036",
+        "phone": "0618168351",
+        "registration_date": "2023-08-08"
+    },
+    {
+        "provider_id": "PRV-000077",
+        "provider_name": "Bora-Chhabra",
+        "provider_type": "Diagnostic Center",
+        "address": "391, Mital Path, Coimbatore 068067",
+        "phone": "7133565249",
+        "registration_date": "2024-10-02"
+    },
+    {
+        "provider_id": "PRV-000078",
+        "provider_name": "Handa, Issac and Narula",
+        "provider_type": "Legal Service",
+        "address": "70/742, Morar Nagar\nNavi Mumbai-513566",
+        "phone": "06617905832",
+        "registration_date": "2021-11-08"
+    },
+    {
+        "provider_id": "PRV-000079",
+        "provider_name": "Vora and Sons",
+        "provider_type": "Diagnostic Center",
+        "address": "05\nChaudry, Asansol-232963",
+        "phone": "7150757816",
+        "registration_date": "2024-11-16"
+    },
+    {
+        "provider_id": "PRV-000080",
+        "provider_name": "Sani Group",
+        "provider_type": "Vehicle Repair",
+        "address": "58/71\nKeer Path\nTumkur 624404",
+        "phone": "+912509556744",
+        "registration_date": "2020-12-06"
+    },
+    {
+        "provider_id": "PRV-000081",
+        "provider_name": "Padmanabhan PLC",
+        "provider_type": "Diagnostic Center",
+        "address": "007\nWali Zila, Gopalpur-969377",
+        "phone": "2291144919",
+        "registration_date": "2019-04-18"
+    },
+    {
+        "provider_id": "PRV-000082",
+        "provider_name": "Nagarajan LLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 82\nVasa Path, Ozhukarai 664184",
+        "phone": "03486780385",
+        "registration_date": "2023-03-29"
+    },
+    {
+        "provider_id": "PRV-000083",
+        "provider_name": "Dhingra LLC",
+        "provider_type": "Pharmacy",
+        "address": "90, Kuruvilla Nagar\nRohtak 853290",
+        "phone": "5824019058",
+        "registration_date": "2025-02-27"
+    },
+    {
+        "provider_id": "PRV-000084",
+        "provider_name": "Dugar, Thaker and Brar",
+        "provider_type": "Legal Service",
+        "address": "H.No. 89, Modi Chowk, Amaravati-599415",
+        "phone": "09171301848",
+        "registration_date": "2018-01-07"
+    },
+    {
+        "provider_id": "PRV-000085",
+        "provider_name": "Deshmukh, Barad and Chaudhry",
+        "provider_type": "Pharmacy",
+        "address": "04/623, Raghavan Ganj\nThanjavur 895107",
+        "phone": "03107421715",
+        "registration_date": "2025-05-30"
+    },
+    {
+        "provider_id": "PRV-000086",
+        "provider_name": "Oza-Nagi",
+        "provider_type": "Hospital",
+        "address": "62/73\nChadha Circle\nNagercoil 216771",
+        "phone": "02602030812",
+        "registration_date": "2023-02-23"
+    },
+    {
+        "provider_id": "PRV-000087",
+        "provider_name": "Yadav LLC",
+        "provider_type": "Legal Service",
+        "address": "11/72\nShroff Circle\nBettiah 191205",
+        "phone": "+913599067065",
+        "registration_date": "2022-01-20"
+    },
+    {
+        "provider_id": "PRV-000088",
+        "provider_name": "Rattan, Sachar and Ramakrishnan",
+        "provider_type": "Hospital",
+        "address": "89/583, Maharaj Marg\nChandigarh 807791",
+        "phone": "04772340334",
+        "registration_date": "2024-01-25"
+    },
+    {
+        "provider_id": "PRV-000089",
+        "provider_name": "Sahni LLC",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 833, Zachariah Marg\nGuntur 329275",
+        "phone": "7948692885",
+        "registration_date": "2026-02-11"
+    },
+    {
+        "provider_id": "PRV-000090",
+        "provider_name": "Atwal Inc",
+        "provider_type": "Hospital",
+        "address": "836, Shroff\nAmbattur 909966",
+        "phone": "08698193096",
+        "registration_date": "2026-01-06"
+    },
+    {
+        "provider_id": "PRV-000091",
+        "provider_name": "Sanghvi, Gaba and Karan",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 112, Karpe Circle, Allahabad 781163",
+        "phone": "+911727205310",
+        "registration_date": "2023-12-02"
+    },
+    {
+        "provider_id": "PRV-000092",
+        "provider_name": "Pillai-Mammen",
+        "provider_type": "Diagnostic Center",
+        "address": "85\nComar Circle\nThane-465320",
+        "phone": "9835014648",
+        "registration_date": "2025-03-28"
+    },
+    {
+        "provider_id": "PRV-000093",
+        "provider_name": "More, Sen and Chakraborty",
+        "provider_type": "Hospital",
+        "address": "H.No. 77, Sami Marg\nRewa 212115",
+        "phone": "+911343142117",
+        "registration_date": "2021-11-19"
+    },
+    {
+        "provider_id": "PRV-000094",
+        "provider_name": "Char PLC",
+        "provider_type": "Hospital",
+        "address": "H.No. 29, Balay Road\nBelgaum-827441",
+        "phone": "00652629611",
+        "registration_date": "2022-04-22"
+    },
+    {
+        "provider_id": "PRV-000095",
+        "provider_name": "Patla-Narasimhan",
+        "provider_type": "Hospital",
+        "address": "904, Naik Path\nBhusawal-389271",
+        "phone": "2390170759",
+        "registration_date": "2025-05-02"
+    },
+    {
+        "provider_id": "PRV-000096",
+        "provider_name": "Kala LLC",
+        "provider_type": "Hospital",
+        "address": "740\nGera Chowk\nMau 760338",
+        "phone": "06386562778",
+        "registration_date": "2023-07-11"
+    },
+    {
+        "provider_id": "PRV-000097",
+        "provider_name": "Mander LLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 35\nLuthra Nagar\nTiruchirappalli-690970",
+        "phone": "6113895230",
+        "registration_date": "2022-11-02"
+    },
+    {
+        "provider_id": "PRV-000098",
+        "provider_name": "Bakshi, Jain and Kota",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 63, Rai\nGhaziabad 965871",
+        "phone": "+919579157733",
+        "registration_date": "2017-12-01"
+    },
+    {
+        "provider_id": "PRV-000099",
+        "provider_name": "Sura-Dayal",
+        "provider_type": "Hospital",
+        "address": "80/781\nRam Nagar, Karnal-301073",
+        "phone": "+911575743091",
+        "registration_date": "2026-08-01"
+    },
+    {
+        "provider_id": "PRV-000100",
+        "provider_name": "Lall Group",
+        "provider_type": "Legal Service",
+        "address": "12/31, Ganguly Path, Haridwar 879500",
+        "phone": "8819074610",
+        "registration_date": "2016-11-16"
+    },
+    {
+        "provider_id": "PRV-000101",
+        "provider_name": "Agate, Sandal and Sem",
+        "provider_type": "Hospital",
+        "address": "823, Pal Circle, Kamarhati-887432",
+        "phone": "2981058406",
+        "registration_date": "2024-05-10"
+    },
+    {
+        "provider_id": "PRV-000102",
+        "provider_name": "Andra-Kothari",
+        "provider_type": "Hospital",
+        "address": "819\nSuri Street, Hosur-091336",
+        "phone": "+912420609296",
+        "registration_date": "2019-03-03"
+    },
+    {
+        "provider_id": "PRV-000103",
+        "provider_name": "Goel-Dutta",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 14, Wadhwa Road, Gurgaon 102941",
+        "phone": "08666510098",
+        "registration_date": "2025-08-30"
+    },
+    {
+        "provider_id": "PRV-000104",
+        "provider_name": "Padmanabhan, Srinivas and Chacko",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 129\nGola Chowk\nSultan Pur Majra 936554",
+        "phone": "06929649917",
+        "registration_date": "2023-01-12"
+    },
+    {
+        "provider_id": "PRV-000105",
+        "provider_name": "Borde, Sagar and Shukla",
+        "provider_type": "Legal Service",
+        "address": "95/09, Chad Path, Katihar 733532",
+        "phone": "6056700268",
+        "registration_date": "2026-09-28"
+    },
+    {
+        "provider_id": "PRV-000106",
+        "provider_name": "Viswanathan Group",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 63, Saxena\nJaipur 040214",
+        "phone": "09580348781",
+        "registration_date": "2020-10-05"
+    },
+    {
+        "provider_id": "PRV-000107",
+        "provider_name": "Sama-Jayaraman",
+        "provider_type": "Legal Service",
+        "address": "928\nWalia\nSerampore-511256",
+        "phone": "4957616306",
+        "registration_date": "2026-10-24"
+    },
+    {
+        "provider_id": "PRV-000108",
+        "provider_name": "Majumdar and Sons",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 21\nChanda, Surendranagar Dudhrej-652803",
+        "phone": "2035987429",
+        "registration_date": "2026-06-23"
+    },
+    {
+        "provider_id": "PRV-000109",
+        "provider_name": "Hayre, Ray and Halder",
+        "provider_type": "Vehicle Repair",
+        "address": "61/519, Kapadia, Kakinada-159945",
+        "phone": "+917237700903",
+        "registration_date": "2017-04-20"
+    },
+    {
+        "provider_id": "PRV-000110",
+        "provider_name": "Modi, Ratti and Bora",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 95\nBarman Marg, Imphal-187751",
+        "phone": "+918744015203",
+        "registration_date": "2026-06-03"
+    },
+    {
+        "provider_id": "PRV-000111",
+        "provider_name": "Kar-Mital",
+        "provider_type": "Diagnostic Center",
+        "address": "91/251, Sood Street, Miryalaguda-210045",
+        "phone": "01184315775",
+        "registration_date": "2020-09-13"
+    },
+    {
+        "provider_id": "PRV-000112",
+        "provider_name": "Sant Group",
+        "provider_type": "Legal Service",
+        "address": "73/49\nSabharwal Chowk\nGwalior-938812",
+        "phone": "7442249402",
+        "registration_date": "2017-08-26"
+    },
+    {
+        "provider_id": "PRV-000113",
+        "provider_name": "Dey PLC",
+        "provider_type": "Hospital",
+        "address": "H.No. 227, Borra Path\nDelhi 765700",
+        "phone": "+919305922343",
+        "registration_date": "2018-05-27"
+    },
+    {
+        "provider_id": "PRV-000114",
+        "provider_name": "Swaminathan-Dhar",
+        "provider_type": "Pharmacy",
+        "address": "87/417\nBajaj Path\nKarawal Nagar-380590",
+        "phone": "4477466731",
+        "registration_date": "2021-06-28"
+    },
+    {
+        "provider_id": "PRV-000115",
+        "provider_name": "Sura Group",
+        "provider_type": "Hospital",
+        "address": "80, Grewal Street\nJalandhar 075355",
+        "phone": "9235944149",
+        "registration_date": "2017-10-03"
+    },
+    {
+        "provider_id": "PRV-000116",
+        "provider_name": "Varghese, Parsa and Patel",
+        "provider_type": "Legal Service",
+        "address": "99/54\nChopra Ganj, Danapur-267123",
+        "phone": "+911158514008",
+        "registration_date": "2024-11-20"
+    },
+    {
+        "provider_id": "PRV-000117",
+        "provider_name": "Buch-Wadhwa",
+        "provider_type": "Legal Service",
+        "address": "10, Mani\nRewa-262653",
+        "phone": "03172771354",
+        "registration_date": "2019-08-11"
+    },
+    {
+        "provider_id": "PRV-000118",
+        "provider_name": "Kant and Sons",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 31, Batra Path, Rajkot-289550",
+        "phone": "2616680115",
+        "registration_date": "2025-04-25"
+    },
+    {
+        "provider_id": "PRV-000119",
+        "provider_name": "Mammen PLC",
+        "provider_type": "Diagnostic Center",
+        "address": "27/425, Mistry Road, Ludhiana 960683",
+        "phone": "0543720302",
+        "registration_date": "2025-06-14"
+    },
+    {
+        "provider_id": "PRV-000120",
+        "provider_name": "Gill, Bhat and Menon",
+        "provider_type": "Diagnostic Center",
+        "address": "71\nBora Nagar, Siwan 915824",
+        "phone": "+919100386371",
+        "registration_date": "2020-10-25"
+    },
+    {
+        "provider_id": "PRV-000121",
+        "provider_name": "Mall-Suresh",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 066\nSheth Chowk\nNagaon 031038",
+        "phone": "01636573984",
+        "registration_date": "2019-08-04"
+    },
+    {
+        "provider_id": "PRV-000122",
+        "provider_name": "Ramesh-Doshi",
+        "provider_type": "Diagnostic Center",
+        "address": "42/031\nBarad Marg\nThoothukudi 328445",
+        "phone": "08359536492",
+        "registration_date": "2022-04-12"
+    },
+    {
+        "provider_id": "PRV-000123",
+        "provider_name": "Bora-Srivastava",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 785, Garg Ganj\nVisakhapatnam 559196",
+        "phone": "+914377095215",
+        "registration_date": "2025-07-04"
+    },
+    {
+        "provider_id": "PRV-000124",
+        "provider_name": "Mall, Pandey and Pingle",
+        "provider_type": "Diagnostic Center",
+        "address": "68/768, Acharya Path\nHubli–Dharwad 642041",
+        "phone": "07389890558",
+        "registration_date": "2020-05-22"
+    },
+    {
+        "provider_id": "PRV-000125",
+        "provider_name": "Sengupta-Nori",
+        "provider_type": "Hospital",
+        "address": "25/736, Chada Marg, Guntur 434420",
+        "phone": "05405907859",
+        "registration_date": "2018-08-18"
+    },
+    {
+        "provider_id": "PRV-000126",
+        "provider_name": "De, Wason and Dugar",
+        "provider_type": "Diagnostic Center",
+        "address": "12/658\nSibal Chowk\nTirupati-690479",
+        "phone": "01114609769",
+        "registration_date": "2025-03-06"
+    },
+    {
+        "provider_id": "PRV-000127",
+        "provider_name": "Dua LLC",
+        "provider_type": "Legal Service",
+        "address": "H.No. 921\nGala Road, Morena 553695",
+        "phone": "05737431470",
+        "registration_date": "2018-06-23"
+    },
+    {
+        "provider_id": "PRV-000128",
+        "provider_name": "Palan, Garde and Morar",
+        "provider_type": "Legal Service",
+        "address": "60/523, Borde Chowk, Kamarhati 180565",
+        "phone": "09306403510",
+        "registration_date": "2025-06-21"
+    },
+    {
+        "provider_id": "PRV-000129",
+        "provider_name": "Gulati, Upadhyay and Garg",
+        "provider_type": "Hospital",
+        "address": "H.No. 303\nDevan, Hazaribagh-737079",
+        "phone": "3363644316",
+        "registration_date": "2019-10-06"
+    },
+    {
+        "provider_id": "PRV-000130",
+        "provider_name": "Sibal PLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 711\nSethi Circle\nBidhannagar 038728",
+        "phone": "6001421717",
+        "registration_date": "2019-09-01"
+    },
+    {
+        "provider_id": "PRV-000131",
+        "provider_name": "Sama-Nadkarni",
+        "provider_type": "Hospital",
+        "address": "H.No. 565, Bawa Nagar, Bhagalpur 373270",
+        "phone": "01201342586",
+        "registration_date": "2017-07-30"
+    },
+    {
+        "provider_id": "PRV-000132",
+        "provider_name": "Gopal, Madan and Aggarwal",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 63\nRam Street, Darbhanga 741415",
+        "phone": "7950038538",
+        "registration_date": "2024-10-02"
+    },
+    {
+        "provider_id": "PRV-000133",
+        "provider_name": "Khatri and Sons",
+        "provider_type": "Diagnostic Center",
+        "address": "014, Saha Ganj\nSilchar-385802",
+        "phone": "08391633310",
+        "registration_date": "2019-08-23"
+    },
+    {
+        "provider_id": "PRV-000134",
+        "provider_name": "Bains-Saraf",
+        "provider_type": "Diagnostic Center",
+        "address": "63/66, Maharaj Ganj\nAnantapuram 858270",
+        "phone": "+917674107218",
+        "registration_date": "2017-06-14"
+    },
+    {
+        "provider_id": "PRV-000135",
+        "provider_name": "Subramaniam, Morar and Sura",
+        "provider_type": "Vehicle Repair",
+        "address": "169, Ganesh Path, Kadapa 312978",
+        "phone": "+914695041570",
+        "registration_date": "2025-01-09"
+    },
+    {
+        "provider_id": "PRV-000136",
+        "provider_name": "Brahmbhatt-Basak",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 721, Date, Raichur-894415",
+        "phone": "04598828255",
+        "registration_date": "2021-08-11"
+    },
+    {
+        "provider_id": "PRV-000137",
+        "provider_name": "Handa PLC",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 49\nSethi Street\nAnantapur-160633",
+        "phone": "+913430616716",
+        "registration_date": "2018-11-22"
+    },
+    {
+        "provider_id": "PRV-000138",
+        "provider_name": "Raju-Majumdar",
+        "provider_type": "Hospital",
+        "address": "H.No. 20\nChawla Zila\nUjjain 334746",
+        "phone": "9581230472",
+        "registration_date": "2025-12-03"
+    },
+    {
+        "provider_id": "PRV-000139",
+        "provider_name": "Cherian Ltd",
+        "provider_type": "Hospital",
+        "address": "H.No. 84\nWable Chowk\nBellary 084188",
+        "phone": "9987388839",
+        "registration_date": "2019-08-11"
+    },
+    {
+        "provider_id": "PRV-000140",
+        "provider_name": "Pant, Kaul and Pingle",
+        "provider_type": "Hospital",
+        "address": "22/533, Sharaf Chowk, Hazaribagh 341071",
+        "phone": "+915837697459",
+        "registration_date": "2019-09-29"
+    },
+    {
+        "provider_id": "PRV-000141",
+        "provider_name": "Bhatti-Prakash",
+        "provider_type": "Legal Service",
+        "address": "301\nBath Path, Patna 033419",
+        "phone": "09404287369",
+        "registration_date": "2018-01-02"
+    },
+    {
+        "provider_id": "PRV-000142",
+        "provider_name": "Nayar Ltd",
+        "provider_type": "Pharmacy",
+        "address": "10, Swaminathan Road, Gulbarga-535074",
+        "phone": "0568865567",
+        "registration_date": "2025-09-02"
+    },
+    {
+        "provider_id": "PRV-000143",
+        "provider_name": "Bhagat LLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 483, Bhakta Ganj, Panchkula 940401",
+        "phone": "+915267489509",
+        "registration_date": "2022-03-19"
+    },
+    {
+        "provider_id": "PRV-000144",
+        "provider_name": "Dasgupta, Kala and Wable",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 632, Sagar Marg\nGhaziabad-418486",
+        "phone": "+916094908841",
+        "registration_date": "2018-12-28"
+    },
+    {
+        "provider_id": "PRV-000145",
+        "provider_name": "Shetty, Seshadri and Chandra",
+        "provider_type": "Hospital",
+        "address": "78/964\nKade Chowk, Nellore 465857",
+        "phone": "07300164967",
+        "registration_date": "2017-07-23"
+    },
+    {
+        "provider_id": "PRV-000146",
+        "provider_name": "Gala Inc",
+        "provider_type": "Vehicle Repair",
+        "address": "98/00\nDayal Street, Alappuzha 043665",
+        "phone": "08613156156",
+        "registration_date": "2019-11-16"
+    },
+    {
+        "provider_id": "PRV-000147",
+        "provider_name": "Pant and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "36/45, Doctor Path\nAmroha 337630",
+        "phone": "08378300865",
+        "registration_date": "2021-03-01"
+    },
+    {
+        "provider_id": "PRV-000148",
+        "provider_name": "Mall, Jhaveri and Sahni",
+        "provider_type": "Pharmacy",
+        "address": "46/734\nRamesh Marg\nTumkur 210057",
+        "phone": "+917089931412",
+        "registration_date": "2026-01-21"
+    },
+    {
+        "provider_id": "PRV-000149",
+        "provider_name": "Aurora, Chokshi and Prasad",
+        "provider_type": "Diagnostic Center",
+        "address": "258, Kashyap Zila, Bettiah 955042",
+        "phone": "+912606642306",
+        "registration_date": "2017-04-17"
+    },
+    {
+        "provider_id": "PRV-000150",
+        "provider_name": "Hayer-Sethi",
+        "provider_type": "Legal Service",
+        "address": "87/77, Bail Chowk\nGwalior-549898",
+        "phone": "05402763787",
+        "registration_date": "2024-06-26"
+    },
+    {
+        "provider_id": "PRV-000151",
+        "provider_name": "Gola Inc",
+        "provider_type": "Hospital",
+        "address": "410, Wadhwa Path, Guwahati-678195",
+        "phone": "00738843949",
+        "registration_date": "2024-11-27"
+    },
+    {
+        "provider_id": "PRV-000152",
+        "provider_name": "Mukhopadhyay PLC",
+        "provider_type": "Legal Service",
+        "address": "79, Pall Road\nLoni-495247",
+        "phone": "05349514246",
+        "registration_date": "2025-09-30"
+    },
+    {
+        "provider_id": "PRV-000153",
+        "provider_name": "Chahal, Sarkar and Shan",
+        "provider_type": "Pharmacy",
+        "address": "66/59, Kulkarni Path, Sangli-Miraj & Kupwad 932120",
+        "phone": "0387665048",
+        "registration_date": "2017-04-11"
+    },
+    {
+        "provider_id": "PRV-000154",
+        "provider_name": "Sule-Dara",
+        "provider_type": "Diagnostic Center",
+        "address": "20/69, Seshadri Nagar, Ongole-918215",
+        "phone": "7089571293",
+        "registration_date": "2025-11-18"
+    },
+    {
+        "provider_id": "PRV-000155",
+        "provider_name": "Kothari, Borra and Ray",
+        "provider_type": "Legal Service",
+        "address": "H.No. 590\nKata Circle\nTadepalligudem 377308",
+        "phone": "06296659375",
+        "registration_date": "2024-06-22"
+    },
+    {
+        "provider_id": "PRV-000156",
+        "provider_name": "Goyal, Brar and Keer",
+        "provider_type": "Pharmacy",
+        "address": "71/475, Chauhan Road\nBhind-779674",
+        "phone": "1012925957",
+        "registration_date": "2025-12-26"
+    },
+    {
+        "provider_id": "PRV-000157",
+        "provider_name": "Parmar and Sons",
+        "provider_type": "Hospital",
+        "address": "833\nJayaraman Street, Panipat 403580",
+        "phone": "3811380319",
+        "registration_date": "2021-11-11"
+    },
+    {
+        "provider_id": "PRV-000158",
+        "provider_name": "Chahal Group",
+        "provider_type": "Legal Service",
+        "address": "373\nLal Ganj\nGuntur-458505",
+        "phone": "+915558767792",
+        "registration_date": "2018-05-11"
+    },
+    {
+        "provider_id": "PRV-000159",
+        "provider_name": "Merchant, Batta and Bhakta",
+        "provider_type": "Hospital",
+        "address": "H.No. 91, Gera Circle\nAmravati 407908",
+        "phone": "3305895478",
+        "registration_date": "2017-07-14"
+    },
+    {
+        "provider_id": "PRV-000160",
+        "provider_name": "Comar-Kapoor",
+        "provider_type": "Vehicle Repair",
+        "address": "092\nGoel Path\nMorbi 098000",
+        "phone": "+913932328968",
+        "registration_date": "2017-12-31"
+    },
+    {
+        "provider_id": "PRV-000161",
+        "provider_name": "Kibe, Karnik and Magar",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 485\nLad Ganj, Thrissur-209028",
+        "phone": "00987898454",
+        "registration_date": "2019-01-29"
+    },
+    {
+        "provider_id": "PRV-000162",
+        "provider_name": "Deo-Bhagat",
+        "provider_type": "Hospital",
+        "address": "903, Badal Road\nArrah-890081",
+        "phone": "5554764912",
+        "registration_date": "2017-06-12"
+    },
+    {
+        "provider_id": "PRV-000163",
+        "provider_name": "Tailor-Yohannan",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 04\nChaudhary Path, Pali 979639",
+        "phone": "00115887570",
+        "registration_date": "2020-06-24"
+    },
+    {
+        "provider_id": "PRV-000164",
+        "provider_name": "Deep-Dora",
+        "provider_type": "Diagnostic Center",
+        "address": "251, Ramakrishnan\nSouth Dumdum 194683",
+        "phone": "+912931415269",
+        "registration_date": "2017-06-06"
+    },
+    {
+        "provider_id": "PRV-000165",
+        "provider_name": "Krish LLC",
+        "provider_type": "Diagnostic Center",
+        "address": "66, Loyal Chowk\nAurangabad-140356",
+        "phone": "05692277214",
+        "registration_date": "2021-05-30"
+    },
+    {
+        "provider_id": "PRV-000166",
+        "provider_name": "Narula PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "45\nSinha Zila\nSrinagar 358204",
+        "phone": "05355560813",
+        "registration_date": "2017-10-23"
+    },
+    {
+        "provider_id": "PRV-000167",
+        "provider_name": "Mangat, Roy and Bhatt",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 783, Bir Path, Raipur-591473",
+        "phone": "7951205725",
+        "registration_date": "2023-04-26"
+    },
+    {
+        "provider_id": "PRV-000168",
+        "provider_name": "Shan, Samra and Boase",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 663\nKannan Nagar, Anand 767542",
+        "phone": "2673053898",
+        "registration_date": "2023-12-31"
+    },
+    {
+        "provider_id": "PRV-000169",
+        "provider_name": "Dhaliwal Inc",
+        "provider_type": "Diagnostic Center",
+        "address": "95, Sethi Street\nBardhaman 262687",
+        "phone": "+919838535808",
+        "registration_date": "2020-09-09"
+    },
+    {
+        "provider_id": "PRV-000170",
+        "provider_name": "Pandit and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 53, Chauhan Ganj, Satna-410302",
+        "phone": "07371937563",
+        "registration_date": "2017-06-01"
+    },
+    {
+        "provider_id": "PRV-000171",
+        "provider_name": "Naidu PLC",
+        "provider_type": "Pharmacy",
+        "address": "89/28, Bhandari Nagar\nChapra 455989",
+        "phone": "03345280317",
+        "registration_date": "2019-08-21"
+    },
+    {
+        "provider_id": "PRV-000172",
+        "provider_name": "Krishna-Goyal",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 130\nKannan Circle\nHapur 717915",
+        "phone": "02591936996",
+        "registration_date": "2022-10-31"
+    },
+    {
+        "provider_id": "PRV-000173",
+        "provider_name": "Johal Ltd",
+        "provider_type": "Legal Service",
+        "address": "H.No. 52\nRatta, Pondicherry 648472",
+        "phone": "+919651087090",
+        "registration_date": "2023-07-12"
+    },
+    {
+        "provider_id": "PRV-000174",
+        "provider_name": "Tailor, Pingle and Oak",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 71, Dhillon, Rajahmundry 302618",
+        "phone": "0159864161",
+        "registration_date": "2025-04-09"
+    },
+    {
+        "provider_id": "PRV-000175",
+        "provider_name": "Chahal Ltd",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 39\nZachariah Path\nVadodara 460195",
+        "phone": "+919406938421",
+        "registration_date": "2022-04-23"
+    },
+    {
+        "provider_id": "PRV-000176",
+        "provider_name": "Aurora, Kant and Sabharwal",
+        "provider_type": "Pharmacy",
+        "address": "11/54, Varkey Road\nBally 064878",
+        "phone": "+916492878488",
+        "registration_date": "2018-06-05"
+    },
+    {
+        "provider_id": "PRV-000177",
+        "provider_name": "Sethi, Mital and Narayanan",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 942\nSetty Street, Nanded-515245",
+        "phone": "+914110875381",
+        "registration_date": "2026-08-13"
+    },
+    {
+        "provider_id": "PRV-000178",
+        "provider_name": "Soman-Taneja",
+        "provider_type": "Diagnostic Center",
+        "address": "39\nHayer Street, Nangloi Jat 990159",
+        "phone": "+916455094518",
+        "registration_date": "2017-04-19"
+    },
+    {
+        "provider_id": "PRV-000179",
+        "provider_name": "Nanda, Chacko and Sachdev",
+        "provider_type": "Legal Service",
+        "address": "H.No. 771\nAnne Road\nGandhinagar-805842",
+        "phone": "7052212753",
+        "registration_date": "2018-03-18"
+    },
+    {
+        "provider_id": "PRV-000180",
+        "provider_name": "Nadkarni LLC",
+        "provider_type": "Diagnostic Center",
+        "address": "613\nDeep Zila, Machilipatnam-962709",
+        "phone": "03943998009",
+        "registration_date": "2022-09-27"
+    },
+    {
+        "provider_id": "PRV-000181",
+        "provider_name": "Menon-Krishnamurthy",
+        "provider_type": "Pharmacy",
+        "address": "39/908\nMangal Path\nMuzaffarnagar 824409",
+        "phone": "09892143569",
+        "registration_date": "2026-04-04"
+    },
+    {
+        "provider_id": "PRV-000182",
+        "provider_name": "Salvi PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 29\nSunder\nKavali-393100",
+        "phone": "01006274057",
+        "registration_date": "2018-05-02"
+    },
+    {
+        "provider_id": "PRV-000183",
+        "provider_name": "Das-Sastry",
+        "provider_type": "Hospital",
+        "address": "712\nToor Ganj, Mahbubnagar-327863",
+        "phone": "05862274928",
+        "registration_date": "2025-02-28"
+    },
+    {
+        "provider_id": "PRV-000184",
+        "provider_name": "Shan PLC",
+        "provider_type": "Legal Service",
+        "address": "452, Thakkar Path\nNadiad 297279",
+        "phone": "+919764926915",
+        "registration_date": "2018-01-04"
+    },
+    {
+        "provider_id": "PRV-000185",
+        "provider_name": "Uppal, Nori and Kale",
+        "provider_type": "Hospital",
+        "address": "42, Cherian Marg, Bhopal-619117",
+        "phone": "4342729899",
+        "registration_date": "2026-09-26"
+    },
+    {
+        "provider_id": "PRV-000186",
+        "provider_name": "Tripathi, Sankaran and Borah",
+        "provider_type": "Diagnostic Center",
+        "address": "35/48\nBumb\nSagar 599102",
+        "phone": "1110422411",
+        "registration_date": "2017-02-20"
+    },
+    {
+        "provider_id": "PRV-000187",
+        "provider_name": "Seshadri, Krishnamurthy and Date",
+        "provider_type": "Pharmacy",
+        "address": "93, Chahal Path, Pudukkottai 546115",
+        "phone": "7721209255",
+        "registration_date": "2023-08-07"
+    },
+    {
+        "provider_id": "PRV-000188",
+        "provider_name": "Balay-Gara",
+        "provider_type": "Vehicle Repair",
+        "address": "68, Pillay Road\nMeerut-921936",
+        "phone": "1776150608",
+        "registration_date": "2021-04-21"
+    },
+    {
+        "provider_id": "PRV-000189",
+        "provider_name": "Dave, Vig and Dey",
+        "provider_type": "Hospital",
+        "address": "H.No. 25, Srivastava Nagar\nThrissur 073896",
+        "phone": "+911343763422",
+        "registration_date": "2024-01-01"
+    },
+    {
+        "provider_id": "PRV-000190",
+        "provider_name": "Bobal, Natt and Barad",
+        "provider_type": "Legal Service",
+        "address": "06\nSom Zila, Guntakal-750343",
+        "phone": "00384474646",
+        "registration_date": "2026-04-08"
+    },
+    {
+        "provider_id": "PRV-000191",
+        "provider_name": "Brar, Gera and Virk",
+        "provider_type": "Hospital",
+        "address": "47/54, Krishnan Ganj\nVasai-Virar 731428",
+        "phone": "+911943199645",
+        "registration_date": "2020-11-23"
+    },
+    {
+        "provider_id": "PRV-000192",
+        "provider_name": "Chad, Loyal and Chawla",
+        "provider_type": "Diagnostic Center",
+        "address": "14\nNath, Gaya 121043",
+        "phone": "+912463677151",
+        "registration_date": "2023-05-19"
+    },
+    {
+        "provider_id": "PRV-000193",
+        "provider_name": "Ganesan-Naidu",
+        "provider_type": "Diagnostic Center",
+        "address": "13/239, Agarwal Nagar, Shahjahanpur 008577",
+        "phone": "0049388729",
+        "registration_date": "2023-07-25"
+    },
+    {
+        "provider_id": "PRV-000194",
+        "provider_name": "Dash-Dhar",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 42\nDhingra Marg, Jodhpur 552189",
+        "phone": "+916307157359",
+        "registration_date": "2023-11-22"
+    },
+    {
+        "provider_id": "PRV-000195",
+        "provider_name": "Doshi-Deo",
+        "provider_type": "Hospital",
+        "address": "42, Sane, Katni-298609",
+        "phone": "+919655584329",
+        "registration_date": "2022-07-29"
+    },
+    {
+        "provider_id": "PRV-000196",
+        "provider_name": "Buch-Halder",
+        "provider_type": "Hospital",
+        "address": "30, Raju Chowk, Suryapet 201196",
+        "phone": "1813705206",
+        "registration_date": "2022-08-17"
+    },
+    {
+        "provider_id": "PRV-000197",
+        "provider_name": "Saran, Narayanan and Bhargava",
+        "provider_type": "Legal Service",
+        "address": "97/342, Chanda Marg, Madhyamgram 550208",
+        "phone": "0220261004",
+        "registration_date": "2021-06-26"
+    },
+    {
+        "provider_id": "PRV-000198",
+        "provider_name": "Salvi Inc",
+        "provider_type": "Legal Service",
+        "address": "H.No. 583, Boase Street\nHaldia-477863",
+        "phone": "+917100591575",
+        "registration_date": "2021-05-23"
+    },
+    {
+        "provider_id": "PRV-000199",
+        "provider_name": "Nagar-Bhatti",
+        "provider_type": "Vehicle Repair",
+        "address": "330, Char Street\nPanvel-055711",
+        "phone": "+918193887863",
+        "registration_date": "2024-08-29"
+    },
+    {
+        "provider_id": "PRV-000200",
+        "provider_name": "Borah, Chakrabarti and Narayanan",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 87, Bora Zila\nBardhaman 069902",
+        "phone": "+916359336071",
+        "registration_date": "2022-12-16"
+    },
+    {
+        "provider_id": "PRV-000201",
+        "provider_name": "Joshi PLC",
+        "provider_type": "Legal Service",
+        "address": "877, Nayar Chowk\nAlappuzha-097661",
+        "phone": "04880914021",
+        "registration_date": "2017-05-23"
+    },
+    {
+        "provider_id": "PRV-000202",
+        "provider_name": "Varghese, Patil and Chadha",
+        "provider_type": "Hospital",
+        "address": "56, Sachar Road\nChapra 410524",
+        "phone": "03514944347",
+        "registration_date": "2017-01-05"
+    },
+    {
+        "provider_id": "PRV-000203",
+        "provider_name": "Dass, Lad and Khanna",
+        "provider_type": "Hospital",
+        "address": "96, Yogi Chowk\nPondicherry-994967",
+        "phone": "1598648456",
+        "registration_date": "2019-08-08"
+    },
+    {
+        "provider_id": "PRV-000204",
+        "provider_name": "Naik, Samra and Dugar",
+        "provider_type": "Diagnostic Center",
+        "address": "06, More\nBhilwara-656207",
+        "phone": "+911295377366",
+        "registration_date": "2026-07-15"
+    },
+    {
+        "provider_id": "PRV-000205",
+        "provider_name": "Kari LLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 33\nLata Chowk\nKochi 021176",
+        "phone": "7637774482",
+        "registration_date": "2025-12-03"
+    },
+    {
+        "provider_id": "PRV-000206",
+        "provider_name": "Dash-Tandon",
+        "provider_type": "Hospital",
+        "address": "H.No. 015, Chaudhary Circle\nTirunelveli-169131",
+        "phone": "07566852444",
+        "registration_date": "2025-04-03"
+    },
+    {
+        "provider_id": "PRV-000207",
+        "provider_name": "Tella PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "929\nDass Street\nTinsukia 632754",
+        "phone": "+918325263620",
+        "registration_date": "2023-12-29"
+    },
+    {
+        "provider_id": "PRV-000208",
+        "provider_name": "Chandra and Sons",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 071, Dhillon Marg, Gudivada-422775",
+        "phone": "+912009551850",
+        "registration_date": "2018-06-14"
+    },
+    {
+        "provider_id": "PRV-000209",
+        "provider_name": "Raju PLC",
+        "provider_type": "Pharmacy",
+        "address": "02/63\nDin Nagar, Durg 232569",
+        "phone": "9702874613",
+        "registration_date": "2026-05-10"
+    },
+    {
+        "provider_id": "PRV-000210",
+        "provider_name": "Sahota, Varkey and Lanka",
+        "provider_type": "Diagnostic Center",
+        "address": "69/708\nDasgupta Nagar\nBurhanpur 490114",
+        "phone": "6433836064",
+        "registration_date": "2018-04-01"
+    },
+    {
+        "provider_id": "PRV-000211",
+        "provider_name": "Hans-Wali",
+        "provider_type": "Pharmacy",
+        "address": "07/34, Chandra Road\nKamarhati-239877",
+        "phone": "03809882736",
+        "registration_date": "2024-06-06"
+    },
+    {
+        "provider_id": "PRV-000212",
+        "provider_name": "Dhawan, Chand and Chander",
+        "provider_type": "Legal Service",
+        "address": "H.No. 199\nChaudhuri Nagar, Orai-308174",
+        "phone": "4648697079",
+        "registration_date": "2024-01-30"
+    },
+    {
+        "provider_id": "PRV-000213",
+        "provider_name": "Hayre, Doshi and Walla",
+        "provider_type": "Diagnostic Center",
+        "address": "80, Nagar Path, Mahbubnagar 906440",
+        "phone": "+913642777156",
+        "registration_date": "2019-01-31"
+    },
+    {
+        "provider_id": "PRV-000214",
+        "provider_name": "Zacharia-Aggarwal",
+        "provider_type": "Vehicle Repair",
+        "address": "55/887, Kanda Road, Munger-443555",
+        "phone": "+915233048445",
+        "registration_date": "2017-07-01"
+    },
+    {
+        "provider_id": "PRV-000215",
+        "provider_name": "Bora, Krishnan and Parekh",
+        "provider_type": "Vehicle Repair",
+        "address": "44, Goswami Ganj\nAurangabad 770508",
+        "phone": "08902133950",
+        "registration_date": "2019-02-10"
+    },
+    {
+        "provider_id": "PRV-000216",
+        "provider_name": "Mannan Inc",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 25, Singhal Circle, Meerut-608801",
+        "phone": "+914912217747",
+        "registration_date": "2017-04-24"
+    },
+    {
+        "provider_id": "PRV-000217",
+        "provider_name": "Narang LLC",
+        "provider_type": "Diagnostic Center",
+        "address": "68, Karnik Circle\nBaranagar-373719",
+        "phone": "2864521784",
+        "registration_date": "2022-10-28"
+    },
+    {
+        "provider_id": "PRV-000218",
+        "provider_name": "Sachdev, Buch and Pillay",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 125\nBen Chowk\nDindigul-156954",
+        "phone": "+914675519547",
+        "registration_date": "2026-03-26"
+    },
+    {
+        "provider_id": "PRV-000219",
+        "provider_name": "Raja, Dar and Raval",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 06, Chaudhary Marg, Rampur-709547",
+        "phone": "5886630667",
+        "registration_date": "2026-05-31"
+    },
+    {
+        "provider_id": "PRV-000220",
+        "provider_name": "Joshi PLC",
+        "provider_type": "Pharmacy",
+        "address": "86/636\nD’Alia Ganj\nRatlam 055068",
+        "phone": "+913846321210",
+        "registration_date": "2018-10-16"
+    },
+    {
+        "provider_id": "PRV-000221",
+        "provider_name": "Deshpande Inc",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 523\nVala Zila, Guna-002850",
+        "phone": "01407444915",
+        "registration_date": "2017-05-23"
+    },
+    {
+        "provider_id": "PRV-000222",
+        "provider_name": "Borra-Subramanian",
+        "provider_type": "Legal Service",
+        "address": "868\nSani Marg\nJamalpur-537353",
+        "phone": "9461845382",
+        "registration_date": "2022-02-07"
+    },
+    {
+        "provider_id": "PRV-000223",
+        "provider_name": "Kara LLC",
+        "provider_type": "Hospital",
+        "address": "H.No. 23\nBasak Circle\nDavanagere 002009",
+        "phone": "07387577037",
+        "registration_date": "2022-05-28"
+    },
+    {
+        "provider_id": "PRV-000224",
+        "provider_name": "Wadhwa and Sons",
+        "provider_type": "Legal Service",
+        "address": "486, Deo Chowk, Kishanganj-078661",
+        "phone": "04371974320",
+        "registration_date": "2026-11-13"
+    },
+    {
+        "provider_id": "PRV-000225",
+        "provider_name": "Sekhon and Sons",
+        "provider_type": "Legal Service",
+        "address": "02/68, Anne Path\nAdoni-855626",
+        "phone": "05116932617",
+        "registration_date": "2018-01-29"
+    },
+    {
+        "provider_id": "PRV-000226",
+        "provider_name": "Iyengar, Mittal and Nayak",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 76, Chandran Nagar\nBhavnagar 207486",
+        "phone": "04843476583",
+        "registration_date": "2025-06-05"
+    },
+    {
+        "provider_id": "PRV-000227",
+        "provider_name": "Talwar-Golla",
+        "provider_type": "Pharmacy",
+        "address": "54/30, Chand Ganj, Jalgaon 389276",
+        "phone": "3821953719",
+        "registration_date": "2024-09-09"
+    },
+    {
+        "provider_id": "PRV-000228",
+        "provider_name": "Madan, Bahri and Kulkarni",
+        "provider_type": "Vehicle Repair",
+        "address": "18, Sarkar Zila, Belgaum-817608",
+        "phone": "1215846817",
+        "registration_date": "2018-01-26"
+    },
+    {
+        "provider_id": "PRV-000229",
+        "provider_name": "Chakraborty, Cheema and Sankaran",
+        "provider_type": "Pharmacy",
+        "address": "90, Narayanan Street\nVijayawada-974278",
+        "phone": "+913226549692",
+        "registration_date": "2021-09-17"
+    },
+    {
+        "provider_id": "PRV-000230",
+        "provider_name": "Bava PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 784\nDin Chowk, Jaipur 693171",
+        "phone": "06106392418",
+        "registration_date": "2017-04-08"
+    },
+    {
+        "provider_id": "PRV-000231",
+        "provider_name": "Borah-Talwar",
+        "provider_type": "Vehicle Repair",
+        "address": "549\nMuni Path\nPali-004492",
+        "phone": "+916277395060",
+        "registration_date": "2020-12-31"
+    },
+    {
+        "provider_id": "PRV-000232",
+        "provider_name": "Thakur-Dani",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 55\nChanda Road\nKulti 423020",
+        "phone": "9720535253",
+        "registration_date": "2021-08-15"
+    },
+    {
+        "provider_id": "PRV-000233",
+        "provider_name": "Golla Group",
+        "provider_type": "Diagnostic Center",
+        "address": "75/936, Uppal Road\nBally 415514",
+        "phone": "04116773028",
+        "registration_date": "2018-08-14"
+    },
+    {
+        "provider_id": "PRV-000234",
+        "provider_name": "Agrawal Group",
+        "provider_type": "Legal Service",
+        "address": "H.No. 860\nMohan Path\nNandyal 856147",
+        "phone": "3124013593",
+        "registration_date": "2021-02-11"
+    },
+    {
+        "provider_id": "PRV-000235",
+        "provider_name": "Sood, Dhawan and Kadakia",
+        "provider_type": "Vehicle Repair",
+        "address": "51/64\nRamanathan Path\nProddatur 245646",
+        "phone": "9952371433",
+        "registration_date": "2023-04-05"
+    },
+    {
+        "provider_id": "PRV-000236",
+        "provider_name": "Dave-Wason",
+        "provider_type": "Hospital",
+        "address": "78, Buch Zila\nJamalpur 480734",
+        "phone": "09613087386",
+        "registration_date": "2019-06-22"
+    },
+    {
+        "provider_id": "PRV-000237",
+        "provider_name": "Mitter-Nagi",
+        "provider_type": "Diagnostic Center",
+        "address": "476, Thakur Road\nKarnal 018971",
+        "phone": "+913478542313",
+        "registration_date": "2023-06-06"
+    },
+    {
+        "provider_id": "PRV-000238",
+        "provider_name": "Dani, Natarajan and Saha",
+        "provider_type": "Pharmacy",
+        "address": "42\nHayer\nWarangal 494474",
+        "phone": "02273635254",
+        "registration_date": "2023-02-07"
+    },
+    {
+        "provider_id": "PRV-000239",
+        "provider_name": "Murty Group",
+        "provider_type": "Hospital",
+        "address": "H.No. 709\nShanker Marg\nHapur 675277",
+        "phone": "+911566583670",
+        "registration_date": "2024-06-08"
+    },
+    {
+        "provider_id": "PRV-000240",
+        "provider_name": "Chakraborty, Sha and Acharya",
+        "provider_type": "Hospital",
+        "address": "47/41, Aurora Chowk\nMaheshtala 636733",
+        "phone": "05452400683",
+        "registration_date": "2017-10-17"
+    },
+    {
+        "provider_id": "PRV-000241",
+        "provider_name": "Sant Group",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 74\nBatta Ganj, Jamalpur 378074",
+        "phone": "03846763290",
+        "registration_date": "2020-10-07"
+    },
+    {
+        "provider_id": "PRV-000242",
+        "provider_name": "Sawhney LLC",
+        "provider_type": "Diagnostic Center",
+        "address": "62/949\nKamdar Circle, Hubli–Dharwad 155769",
+        "phone": "02253101227",
+        "registration_date": "2026-05-26"
+    },
+    {
+        "provider_id": "PRV-000243",
+        "provider_name": "Kuruvilla, Padmanabhan and Datta",
+        "provider_type": "Hospital",
+        "address": "98/718\nZacharia Marg\nBulandshahr 332495",
+        "phone": "6339219655",
+        "registration_date": "2024-12-18"
+    },
+    {
+        "provider_id": "PRV-000244",
+        "provider_name": "Dixit-Oak",
+        "provider_type": "Legal Service",
+        "address": "54\nChandra Path, Pondicherry-957015",
+        "phone": "9921683515",
+        "registration_date": "2024-08-03"
+    },
+    {
+        "provider_id": "PRV-000245",
+        "provider_name": "Chokshi LLC",
+        "provider_type": "Diagnostic Center",
+        "address": "74, Ratti Nagar\nProddatur-393634",
+        "phone": "+911931445990",
+        "registration_date": "2023-09-18"
+    },
+    {
+        "provider_id": "PRV-000246",
+        "provider_name": "Dube-Kalita",
+        "provider_type": "Hospital",
+        "address": "H.No. 774, Shankar\nAjmer-634196",
+        "phone": "06997115119",
+        "registration_date": "2020-06-29"
+    },
+    {
+        "provider_id": "PRV-000247",
+        "provider_name": "Prasad Ltd",
+        "provider_type": "Hospital",
+        "address": "H.No. 738\nPrabhakar\nSiwan 169063",
+        "phone": "9453130433",
+        "registration_date": "2021-06-15"
+    },
+    {
+        "provider_id": "PRV-000248",
+        "provider_name": "Bhavsar-Lad",
+        "provider_type": "Pharmacy",
+        "address": "90\nVerma Street, Bhusawal-583198",
+        "phone": "+911553492013",
+        "registration_date": "2020-06-01"
+    },
+    {
+        "provider_id": "PRV-000249",
+        "provider_name": "Rajagopalan, Sahota and Gade",
+        "provider_type": "Legal Service",
+        "address": "27\nDutt Zila\nRanchi 717469",
+        "phone": "9471988250",
+        "registration_date": "2024-11-17"
+    },
+    {
+        "provider_id": "PRV-000250",
+        "provider_name": "Dara-Dutt",
+        "provider_type": "Hospital",
+        "address": "26, Mani Circle\nKumbakonam 490625",
+        "phone": "2986055084",
+        "registration_date": "2020-08-28"
+    },
+    {
+        "provider_id": "PRV-000251",
+        "provider_name": "Bajwa PLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 56\nVora, Surendranagar Dudhrej 295750",
+        "phone": "+915757400609",
+        "registration_date": "2021-12-22"
+    },
+    {
+        "provider_id": "PRV-000252",
+        "provider_name": "Contractor and Sons",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 691, Madan Chowk\nKaraikudi 514328",
+        "phone": "02875302377",
+        "registration_date": "2021-06-03"
+    },
+    {
+        "provider_id": "PRV-000253",
+        "provider_name": "Rau-Keer",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 028\nJohal Road, Bilaspur 747947",
+        "phone": "04109073867",
+        "registration_date": "2020-03-13"
+    },
+    {
+        "provider_id": "PRV-000254",
+        "provider_name": "Varughese, Date and Wali",
+        "provider_type": "Diagnostic Center",
+        "address": "481\nKorpal Ganj, Serampore-132014",
+        "phone": "01042028414",
+        "registration_date": "2023-04-06"
+    },
+    {
+        "provider_id": "PRV-000255",
+        "provider_name": "Golla, Gole and Rattan",
+        "provider_type": "Hospital",
+        "address": "H.No. 27, Garde Zila\nGhaziabad-745628",
+        "phone": "7468261305",
+        "registration_date": "2018-08-16"
+    },
+    {
+        "provider_id": "PRV-000256",
+        "provider_name": "Mitter, Tripathi and Nori",
+        "provider_type": "Pharmacy",
+        "address": "62\nSarraf Circle\nAnantapur 386740",
+        "phone": "05576583817",
+        "registration_date": "2022-01-09"
+    },
+    {
+        "provider_id": "PRV-000257",
+        "provider_name": "Bahri PLC",
+        "provider_type": "Diagnostic Center",
+        "address": "23\nChhabra Street\nTirunelveli-457953",
+        "phone": "06571370961",
+        "registration_date": "2021-10-23"
+    },
+    {
+        "provider_id": "PRV-000258",
+        "provider_name": "Som-Mani",
+        "provider_type": "Hospital",
+        "address": "138, Sani Chowk\nJhansi 717344",
+        "phone": "+917021455338",
+        "registration_date": "2025-06-28"
+    },
+    {
+        "provider_id": "PRV-000259",
+        "provider_name": "Murthy, Kalla and Chowdhury",
+        "provider_type": "Legal Service",
+        "address": "88, Ganguly Marg\nNadiad 104646",
+        "phone": "+911839230687",
+        "registration_date": "2021-10-04"
+    },
+    {
+        "provider_id": "PRV-000260",
+        "provider_name": "Andra, Mani and Devan",
+        "provider_type": "Vehicle Repair",
+        "address": "46/13, Sahni Chowk, Panchkula-470540",
+        "phone": "05296396555",
+        "registration_date": "2018-10-05"
+    },
+    {
+        "provider_id": "PRV-000261",
+        "provider_name": "Bal, Bhatt and Varghese",
+        "provider_type": "Vehicle Repair",
+        "address": "885, Gokhale Chowk\nChandrapur-703869",
+        "phone": "2357474700",
+        "registration_date": "2026-04-20"
+    },
+    {
+        "provider_id": "PRV-000262",
+        "provider_name": "Basak, Sinha and Sathe",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 75, Bali Ganj, Bidar 915965",
+        "phone": "+917744342453",
+        "registration_date": "2018-09-12"
+    },
+    {
+        "provider_id": "PRV-000263",
+        "provider_name": "Varty and Sons",
+        "provider_type": "Pharmacy",
+        "address": "957, Sha Street\nNellore-341080",
+        "phone": "7697907864",
+        "registration_date": "2018-02-26"
+    },
+    {
+        "provider_id": "PRV-000264",
+        "provider_name": "Khatri-Radhakrishnan",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 867, Bobal Ganj\nBallia-121288",
+        "phone": "5997369705",
+        "registration_date": "2020-07-13"
+    },
+    {
+        "provider_id": "PRV-000265",
+        "provider_name": "Sant-Golla",
+        "provider_type": "Legal Service",
+        "address": "225, Gupta Zila, Jalgaon 720409",
+        "phone": "02226608141",
+        "registration_date": "2023-08-19"
+    },
+    {
+        "provider_id": "PRV-000266",
+        "provider_name": "Raju-Dugar",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 78\nKhosla, Sagar-641854",
+        "phone": "9734803895",
+        "registration_date": "2024-09-11"
+    },
+    {
+        "provider_id": "PRV-000267",
+        "provider_name": "Agarwal, Deo and Murthy",
+        "provider_type": "Legal Service",
+        "address": "H.No. 22, Sinha Chowk\nJaipur-227779",
+        "phone": "+910298843878",
+        "registration_date": "2025-07-17"
+    },
+    {
+        "provider_id": "PRV-000268",
+        "provider_name": "Khosla-Yogi",
+        "provider_type": "Legal Service",
+        "address": "27/438\nJayaraman Chowk, Begusarai 629994",
+        "phone": "09835043314",
+        "registration_date": "2017-10-20"
+    },
+    {
+        "provider_id": "PRV-000269",
+        "provider_name": "Sahni, Das and Mohan",
+        "provider_type": "Hospital",
+        "address": "30\nDin Path\nSirsa 060826",
+        "phone": "02123239329",
+        "registration_date": "2022-10-25"
+    },
+    {
+        "provider_id": "PRV-000270",
+        "provider_name": "Krishna-Malhotra",
+        "provider_type": "Vehicle Repair",
+        "address": "76/42, Dada Chowk\nShahjahanpur-612643",
+        "phone": "+910211982224",
+        "registration_date": "2020-06-26"
+    },
+    {
+        "provider_id": "PRV-000271",
+        "provider_name": "Shanker-Madan",
+        "provider_type": "Hospital",
+        "address": "H.No. 62\nChawla Circle\nBhind 208876",
+        "phone": "7462870969",
+        "registration_date": "2026-10-27"
+    },
+    {
+        "provider_id": "PRV-000272",
+        "provider_name": "Manda LLC",
+        "provider_type": "Hospital",
+        "address": "52/315\nKothari Chowk\nFirozabad 237971",
+        "phone": "7255930681",
+        "registration_date": "2017-09-02"
+    },
+    {
+        "provider_id": "PRV-000273",
+        "provider_name": "Rastogi Inc",
+        "provider_type": "Hospital",
+        "address": "45, Balakrishnan Chowk\nAmroha-258373",
+        "phone": "4896533163",
+        "registration_date": "2025-11-25"
+    },
+    {
+        "provider_id": "PRV-000274",
+        "provider_name": "Shere and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "16\nMukhopadhyay Circle\nMadhyamgram-286548",
+        "phone": "+916789396808",
+        "registration_date": "2026-05-13"
+    },
+    {
+        "provider_id": "PRV-000275",
+        "provider_name": "Tiwari Group",
+        "provider_type": "Pharmacy",
+        "address": "049\nChandra Nagar\nKarawal Nagar-405438",
+        "phone": "4297370073",
+        "registration_date": "2018-05-29"
+    },
+    {
+        "provider_id": "PRV-000276",
+        "provider_name": "Kapoor, Bath and Dutt",
+        "provider_type": "Vehicle Repair",
+        "address": "15/83\nPrabhakar Road\nDewas-831347",
+        "phone": "07129543937",
+        "registration_date": "2024-12-10"
+    },
+    {
+        "provider_id": "PRV-000277",
+        "provider_name": "Kashyap-Mall",
+        "provider_type": "Legal Service",
+        "address": "83, Jayaraman Road\nSecunderabad-065197",
+        "phone": "3892154831",
+        "registration_date": "2017-06-12"
+    },
+    {
+        "provider_id": "PRV-000278",
+        "provider_name": "Kala, Prakash and Deshmukh",
+        "provider_type": "Hospital",
+        "address": "001\nSinghal\nSerampore-432732",
+        "phone": "08469923832",
+        "registration_date": "2016-12-14"
+    },
+    {
+        "provider_id": "PRV-000279",
+        "provider_name": "Dua Ltd",
+        "provider_type": "Hospital",
+        "address": "689\nMammen Street\nGorakhpur-820356",
+        "phone": "07950607241",
+        "registration_date": "2026-11-05"
+    },
+    {
+        "provider_id": "PRV-000280",
+        "provider_name": "Dalal, Rana and Manne",
+        "provider_type": "Vehicle Repair",
+        "address": "04/149\nPurohit Street\nBongaigaon-120556",
+        "phone": "7601861576",
+        "registration_date": "2026-06-21"
+    },
+    {
+        "provider_id": "PRV-000281",
+        "provider_name": "Batra-Goswami",
+        "provider_type": "Diagnostic Center",
+        "address": "663\nNagi Marg\nNellore-305644",
+        "phone": "2933866444",
+        "registration_date": "2018-08-16"
+    },
+    {
+        "provider_id": "PRV-000282",
+        "provider_name": "Suresh-Lad",
+        "provider_type": "Diagnostic Center",
+        "address": "263, Garde Chowk, Panvel 504507",
+        "phone": "+911698932816",
+        "registration_date": "2023-08-14"
+    },
+    {
+        "provider_id": "PRV-000283",
+        "provider_name": "Choudhary, Narain and Dasgupta",
+        "provider_type": "Pharmacy",
+        "address": "39/883\nShankar Path, Junagadh 042739",
+        "phone": "+917343554340",
+        "registration_date": "2020-10-14"
+    },
+    {
+        "provider_id": "PRV-000284",
+        "provider_name": "Soman, Chokshi and Ray",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 878\nButala Road, Kulti 963864",
+        "phone": "01051321677",
+        "registration_date": "2025-05-08"
+    },
+    {
+        "provider_id": "PRV-000285",
+        "provider_name": "Sabharwal, Mittal and Issac",
+        "provider_type": "Hospital",
+        "address": "H.No. 96\nGopal Zila\nShimla-943687",
+        "phone": "+919965934382",
+        "registration_date": "2020-11-08"
+    },
+    {
+        "provider_id": "PRV-000286",
+        "provider_name": "Suri, Tandon and Seshadri",
+        "provider_type": "Legal Service",
+        "address": "926\nAgate Path\nMango-942529",
+        "phone": "09362220881",
+        "registration_date": "2021-11-25"
+    },
+    {
+        "provider_id": "PRV-000287",
+        "provider_name": "Kari-Rajagopalan",
+        "provider_type": "Legal Service",
+        "address": "H.No. 74, Ramesh Circle\nNellore-386039",
+        "phone": "00536738337",
+        "registration_date": "2025-04-27"
+    },
+    {
+        "provider_id": "PRV-000288",
+        "provider_name": "Deol-Ramanathan",
+        "provider_type": "Vehicle Repair",
+        "address": "19\nSingh Nagar\nBarasat 363467",
+        "phone": "04619071559",
+        "registration_date": "2024-12-01"
+    },
+    {
+        "provider_id": "PRV-000289",
+        "provider_name": "Toor Inc",
+        "provider_type": "Vehicle Repair",
+        "address": "42, Lalla Path\nMedininagar 909135",
+        "phone": "04895006182",
+        "registration_date": "2021-07-11"
+    },
+    {
+        "provider_id": "PRV-000290",
+        "provider_name": "Dasgupta and Sons",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 62, Murty Street\nKulti 426746",
+        "phone": "7826701419",
+        "registration_date": "2021-08-11"
+    },
+    {
+        "provider_id": "PRV-000291",
+        "provider_name": "Badami-Sekhon",
+        "provider_type": "Pharmacy",
+        "address": "19, Karpe\nBuxar-265383",
+        "phone": "00861888455",
+        "registration_date": "2019-08-15"
+    },
+    {
+        "provider_id": "PRV-000292",
+        "provider_name": "Vyas-Madan",
+        "provider_type": "Vehicle Repair",
+        "address": "27\nRaja Ganj\nDanapur-966782",
+        "phone": "04833996826",
+        "registration_date": "2018-10-11"
+    },
+    {
+        "provider_id": "PRV-000293",
+        "provider_name": "Chowdhury-Karan",
+        "provider_type": "Hospital",
+        "address": "63/611\nNagarajan Marg\nKurnool-263878",
+        "phone": "06698281341",
+        "registration_date": "2022-06-25"
+    },
+    {
+        "provider_id": "PRV-000294",
+        "provider_name": "Gade Inc",
+        "provider_type": "Pharmacy",
+        "address": "73/243\nBehl Ganj, Amravati-232794",
+        "phone": "9788062143",
+        "registration_date": "2018-08-09"
+    },
+    {
+        "provider_id": "PRV-000295",
+        "provider_name": "Grewal, Balan and Trivedi",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 901, Garg Circle\nFarrukhabad 197291",
+        "phone": "5128738247",
+        "registration_date": "2026-09-06"
+    },
+    {
+        "provider_id": "PRV-000296",
+        "provider_name": "Saran-Savant",
+        "provider_type": "Legal Service",
+        "address": "98\nDubey Nagar, Haridwar-703403",
+        "phone": "07628144922",
+        "registration_date": "2019-05-02"
+    },
+    {
+        "provider_id": "PRV-000297",
+        "provider_name": "Goyal, Choudhary and Khurana",
+        "provider_type": "Diagnostic Center",
+        "address": "77\nSuresh, Vasai-Virar-511809",
+        "phone": "4990065670",
+        "registration_date": "2020-07-05"
+    },
+    {
+        "provider_id": "PRV-000298",
+        "provider_name": "Brar-Borah",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 744, Chaudhuri Circle\nKarawal Nagar-206778",
+        "phone": "07814167837",
+        "registration_date": "2026-02-16"
+    },
+    {
+        "provider_id": "PRV-000299",
+        "provider_name": "Sen, Sur and Chawla",
+        "provider_type": "Pharmacy",
+        "address": "84/997\nDeshmukh Ganj\nAlwar-819714",
+        "phone": "5352900163",
+        "registration_date": "2021-03-12"
+    },
+    {
+        "provider_id": "PRV-000300",
+        "provider_name": "Chander-Vig",
+        "provider_type": "Hospital",
+        "address": "00/23\nLal Nagar\nKaraikudi 131160",
+        "phone": "7123059352",
+        "registration_date": "2018-02-09"
+    },
+    {
+        "provider_id": "PRV-000301",
+        "provider_name": "Lal, Bhattacharyya and Kara",
+        "provider_type": "Legal Service",
+        "address": "51/814, Wali Zila, Mehsana-972706",
+        "phone": "7878425145",
+        "registration_date": "2017-05-13"
+    },
+    {
+        "provider_id": "PRV-000302",
+        "provider_name": "Chatterjee Ltd",
+        "provider_type": "Vehicle Repair",
+        "address": "956, Bhavsar Marg\nNaihati 791692",
+        "phone": "5373276955",
+        "registration_date": "2017-12-17"
+    },
+    {
+        "provider_id": "PRV-000303",
+        "provider_name": "Murty-Malhotra",
+        "provider_type": "Legal Service",
+        "address": "47/76\nBala Zila, Guwahati-304869",
+        "phone": "0524833970",
+        "registration_date": "2024-07-28"
+    },
+    {
+        "provider_id": "PRV-000304",
+        "provider_name": "Sathe-Badal",
+        "provider_type": "Hospital",
+        "address": "27/074\nParekh Chowk\nJunagadh 674313",
+        "phone": "3850303362",
+        "registration_date": "2025-10-02"
+    },
+    {
+        "provider_id": "PRV-000305",
+        "provider_name": "Dara, Sem and Wagle",
+        "provider_type": "Diagnostic Center",
+        "address": "70/13\nBalakrishnan Chowk\nMoradabad-157005",
+        "phone": "06919947644",
+        "registration_date": "2017-05-29"
+    },
+    {
+        "provider_id": "PRV-000306",
+        "provider_name": "Shenoy, Bhatt and Pandey",
+        "provider_type": "Hospital",
+        "address": "44/30, Deshmukh Zila\nKhammam 607479",
+        "phone": "+916571737582",
+        "registration_date": "2018-01-04"
+    },
+    {
+        "provider_id": "PRV-000307",
+        "provider_name": "Nanda-Mander",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 433\nLalla Road, Bulandshahr-174922",
+        "phone": "6432365708",
+        "registration_date": "2023-09-08"
+    },
+    {
+        "provider_id": "PRV-000308",
+        "provider_name": "Luthra, Khurana and Dugar",
+        "provider_type": "Hospital",
+        "address": "46/21, Bora Chowk\nKhammam-270693",
+        "phone": "+912716464293",
+        "registration_date": "2024-01-25"
+    },
+    {
+        "provider_id": "PRV-000309",
+        "provider_name": "Chandra-Deol",
+        "provider_type": "Diagnostic Center",
+        "address": "345, Saha Zila\nNashik 012310",
+        "phone": "1311917177",
+        "registration_date": "2019-11-02"
+    },
+    {
+        "provider_id": "PRV-000310",
+        "provider_name": "Narasimhan and Sons",
+        "provider_type": "Legal Service",
+        "address": "375, Morar\nMotihari-597888",
+        "phone": "04390948593",
+        "registration_date": "2021-08-28"
+    },
+    {
+        "provider_id": "PRV-000311",
+        "provider_name": "Sandal-Agrawal",
+        "provider_type": "Legal Service",
+        "address": "223\nHora Marg, Fatehpur-460248",
+        "phone": "02343413983",
+        "registration_date": "2024-08-22"
+    },
+    {
+        "provider_id": "PRV-000312",
+        "provider_name": "Vyas, Badal and Pillay",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 40, Parikh Zila, Ichalkaranji-253486",
+        "phone": "03868177718",
+        "registration_date": "2018-11-24"
+    },
+    {
+        "provider_id": "PRV-000313",
+        "provider_name": "Setty-Halder",
+        "provider_type": "Legal Service",
+        "address": "26/96\nMane Road, Asansol-322366",
+        "phone": "09006883054",
+        "registration_date": "2016-12-17"
+    },
+    {
+        "provider_id": "PRV-000314",
+        "provider_name": "Chopra-Sunder",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 67\nShan\nWarangal 504099",
+        "phone": "+919468523728",
+        "registration_date": "2020-12-02"
+    },
+    {
+        "provider_id": "PRV-000315",
+        "provider_name": "Rattan-Dash",
+        "provider_type": "Legal Service",
+        "address": "77\nMajumdar Nagar\nGopalpur-719875",
+        "phone": "07525545056",
+        "registration_date": "2020-04-11"
+    },
+    {
+        "provider_id": "PRV-000316",
+        "provider_name": "Goyal LLC",
+        "provider_type": "Hospital",
+        "address": "76\nSabharwal Road, Faridabad 150544",
+        "phone": "07161054987",
+        "registration_date": "2017-08-18"
+    },
+    {
+        "provider_id": "PRV-000317",
+        "provider_name": "Jain-Madan",
+        "provider_type": "Pharmacy",
+        "address": "91/269, Bhargava Path\nKulti 047015",
+        "phone": "04270448856",
+        "registration_date": "2019-05-08"
+    },
+    {
+        "provider_id": "PRV-000318",
+        "provider_name": "Sundaram Ltd",
+        "provider_type": "Vehicle Repair",
+        "address": "40/70\nSur Street, Dewas 404789",
+        "phone": "2318854116",
+        "registration_date": "2023-09-23"
+    },
+    {
+        "provider_id": "PRV-000319",
+        "provider_name": "Uppal, Ramakrishnan and Khalsa",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 69\nMunshi Circle, Panipat-554201",
+        "phone": "+917072304035",
+        "registration_date": "2018-07-09"
+    },
+    {
+        "provider_id": "PRV-000320",
+        "provider_name": "Raja-Varughese",
+        "provider_type": "Legal Service",
+        "address": "94, Oak\nArrah-881019",
+        "phone": "02172972763",
+        "registration_date": "2018-03-18"
+    },
+    {
+        "provider_id": "PRV-000321",
+        "provider_name": "Master, Deep and Dhaliwal",
+        "provider_type": "Hospital",
+        "address": "56/68, Goda Road\nPimpri-Chinchwad 967642",
+        "phone": "1572162375",
+        "registration_date": "2017-04-13"
+    },
+    {
+        "provider_id": "PRV-000322",
+        "provider_name": "Balan LLC",
+        "provider_type": "Hospital",
+        "address": "85/26, Bala Nagar\nSingrauli-441079",
+        "phone": "9071784352",
+        "registration_date": "2016-12-27"
+    },
+    {
+        "provider_id": "PRV-000323",
+        "provider_name": "Banerjee, Salvi and Agarwal",
+        "provider_type": "Vehicle Repair",
+        "address": "02/260\nBalan Circle, Sultan Pur Majra 165692",
+        "phone": "3799595966",
+        "registration_date": "2020-09-02"
+    },
+    {
+        "provider_id": "PRV-000324",
+        "provider_name": "Reddy and Sons",
+        "provider_type": "Pharmacy",
+        "address": "53\nRama Circle\nAkola-589861",
+        "phone": "7464633483",
+        "registration_date": "2026-04-01"
+    },
+    {
+        "provider_id": "PRV-000325",
+        "provider_name": "Bhakta-Hayer",
+        "provider_type": "Legal Service",
+        "address": "H.No. 89, Pandya Zila\nGandhidham 248549",
+        "phone": "5891411557",
+        "registration_date": "2020-04-25"
+    },
+    {
+        "provider_id": "PRV-000326",
+        "provider_name": "Anand-Sankaran",
+        "provider_type": "Vehicle Repair",
+        "address": "52, Merchant Chowk, Munger-756359",
+        "phone": "+915843150063",
+        "registration_date": "2020-08-27"
+    },
+    {
+        "provider_id": "PRV-000327",
+        "provider_name": "Choudhury-Pradhan",
+        "provider_type": "Vehicle Repair",
+        "address": "072, Agarwal\nPhusro-769820",
+        "phone": "1232813876",
+        "registration_date": "2022-11-07"
+    },
+    {
+        "provider_id": "PRV-000328",
+        "provider_name": "Balan-Babu",
+        "provider_type": "Legal Service",
+        "address": "H.No. 19, Bora Ganj\nHospet-194309",
+        "phone": "9590674367",
+        "registration_date": "2023-08-14"
+    },
+    {
+        "provider_id": "PRV-000329",
+        "provider_name": "Bumb, Apte and Bobal",
+        "provider_type": "Vehicle Repair",
+        "address": "68, Mann Circle\nSirsa-428188",
+        "phone": "+914795379384",
+        "registration_date": "2025-09-18"
+    },
+    {
+        "provider_id": "PRV-000330",
+        "provider_name": "Kannan-Dhawan",
+        "provider_type": "Legal Service",
+        "address": "H.No. 80, Dua Ganj, Agra-142684",
+        "phone": "01787080251",
+        "registration_date": "2020-12-11"
+    },
+    {
+        "provider_id": "PRV-000331",
+        "provider_name": "Sahni, Parekh and Ranganathan",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 71, Sama Chowk\nPanihati 719804",
+        "phone": "+918578651067",
+        "registration_date": "2021-09-27"
+    },
+    {
+        "provider_id": "PRV-000332",
+        "provider_name": "Sharaf Group",
+        "provider_type": "Vehicle Repair",
+        "address": "09\nHora Ganj\nKulti-577442",
+        "phone": "3898076049",
+        "registration_date": "2026-07-04"
+    },
+    {
+        "provider_id": "PRV-000333",
+        "provider_name": "Devi Ltd",
+        "provider_type": "Hospital",
+        "address": "H.No. 958, Doshi Zila\nKulti 920643",
+        "phone": "08567476442",
+        "registration_date": "2021-03-16"
+    },
+    {
+        "provider_id": "PRV-000334",
+        "provider_name": "Kale Ltd",
+        "provider_type": "Diagnostic Center",
+        "address": "40/04\nDatta Path, Raebareli 668767",
+        "phone": "+911069601869",
+        "registration_date": "2017-04-01"
+    },
+    {
+        "provider_id": "PRV-000335",
+        "provider_name": "Sethi, Swaminathan and Choudhary",
+        "provider_type": "Legal Service",
+        "address": "55, Vala Ganj, Mango-545868",
+        "phone": "6785439570",
+        "registration_date": "2019-01-22"
+    },
+    {
+        "provider_id": "PRV-000336",
+        "provider_name": "Joshi, Sengupta and Loke",
+        "provider_type": "Diagnostic Center",
+        "address": "063\nPandya Chowk, Sagar 064034",
+        "phone": "8517232579",
+        "registration_date": "2021-05-26"
+    },
+    {
+        "provider_id": "PRV-000337",
+        "provider_name": "Padmanabhan-Raghavan",
+        "provider_type": "Hospital",
+        "address": "12, Agrawal Nagar\nDurg-417195",
+        "phone": "09206287426",
+        "registration_date": "2019-10-25"
+    },
+    {
+        "provider_id": "PRV-000338",
+        "provider_name": "Kuruvilla-Borra",
+        "provider_type": "Legal Service",
+        "address": "H.No. 678\nSinghal Marg\nMumbai-568129",
+        "phone": "00026224614",
+        "registration_date": "2023-03-16"
+    },
+    {
+        "provider_id": "PRV-000339",
+        "provider_name": "Bhat-Rai",
+        "provider_type": "Hospital",
+        "address": "56, Dewan Circle\nAurangabad 743401",
+        "phone": "5945912637",
+        "registration_date": "2017-02-18"
+    },
+    {
+        "provider_id": "PRV-000340",
+        "provider_name": "Dhar-Krishnan",
+        "provider_type": "Legal Service",
+        "address": "08/495\nChaudhary, Visakhapatnam 542192",
+        "phone": "09557297594",
+        "registration_date": "2022-07-03"
+    },
+    {
+        "provider_id": "PRV-000341",
+        "provider_name": "Bal PLC",
+        "provider_type": "Pharmacy",
+        "address": "053\nMorar Street\nBahraich-320318",
+        "phone": "+918661687428",
+        "registration_date": "2024-10-20"
+    },
+    {
+        "provider_id": "PRV-000342",
+        "provider_name": "Lad-Lala",
+        "provider_type": "Vehicle Repair",
+        "address": "93, Srinivas Road\nAkola-291496",
+        "phone": "08918501904",
+        "registration_date": "2025-07-10"
+    },
+    {
+        "provider_id": "PRV-000343",
+        "provider_name": "Sunder-Patel",
+        "provider_type": "Pharmacy",
+        "address": "03\nGandhi Chowk, Ichalkaranji 670324",
+        "phone": "5536740713",
+        "registration_date": "2018-10-06"
+    },
+    {
+        "provider_id": "PRV-000344",
+        "provider_name": "Zacharia, Hans and Gandhi",
+        "provider_type": "Legal Service",
+        "address": "H.No. 69, Doshi Nagar\nEluru-613359",
+        "phone": "07791628058",
+        "registration_date": "2024-04-30"
+    },
+    {
+        "provider_id": "PRV-000345",
+        "provider_name": "Pandit, Prabhu and Naik",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 326, Narasimhan Path, Mango-437050",
+        "phone": "04578314530",
+        "registration_date": "2024-05-29"
+    },
+    {
+        "provider_id": "PRV-000346",
+        "provider_name": "Karpe-Dhingra",
+        "provider_type": "Diagnostic Center",
+        "address": "47/049\nButala Ganj, Korba 909597",
+        "phone": "1834970257",
+        "registration_date": "2019-07-28"
+    },
+    {
+        "provider_id": "PRV-000347",
+        "provider_name": "Palla-Pillai",
+        "provider_type": "Pharmacy",
+        "address": "436, Yogi Circle\nBerhampore 736227",
+        "phone": "2897070802",
+        "registration_date": "2019-04-29"
+    },
+    {
+        "provider_id": "PRV-000348",
+        "provider_name": "Atwal Ltd",
+        "provider_type": "Vehicle Repair",
+        "address": "78\nVyas Ganj\nBhind-452267",
+        "phone": "07233410273",
+        "registration_date": "2026-01-22"
+    },
+    {
+        "provider_id": "PRV-000349",
+        "provider_name": "Hari-Gola",
+        "provider_type": "Hospital",
+        "address": "39\nVig Circle, Bangalore 351665",
+        "phone": "+919875678916",
+        "registration_date": "2020-11-06"
+    },
+    {
+        "provider_id": "PRV-000350",
+        "provider_name": "Dhar, Kaul and Sood",
+        "provider_type": "Legal Service",
+        "address": "H.No. 859, Padmanabhan Marg, Sangli-Miraj & Kupwad-856984",
+        "phone": "00775244145",
+        "registration_date": "2019-07-18"
+    },
+    {
+        "provider_id": "PRV-000351",
+        "provider_name": "Chaudry-Chakraborty",
+        "provider_type": "Legal Service",
+        "address": "H.No. 913\nSachdeva Path, Durgapur-469105",
+        "phone": "+918696805835",
+        "registration_date": "2017-05-14"
+    },
+    {
+        "provider_id": "PRV-000352",
+        "provider_name": "Singh-Ahluwalia",
+        "provider_type": "Hospital",
+        "address": "365\nChaudhari Road, Ballia 925269",
+        "phone": "+915194371295",
+        "registration_date": "2026-05-21"
+    },
+    {
+        "provider_id": "PRV-000353",
+        "provider_name": "Vora, Raman and Natt",
+        "provider_type": "Legal Service",
+        "address": "81\nNatarajan Path\nJorhat 873086",
+        "phone": "00712341623",
+        "registration_date": "2017-01-24"
+    },
+    {
+        "provider_id": "PRV-000354",
+        "provider_name": "Chander-Anand",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 58\nKumer Chowk, Pimpri-Chinchwad-861569",
+        "phone": "+910964385413",
+        "registration_date": "2026-08-03"
+    },
+    {
+        "provider_id": "PRV-000355",
+        "provider_name": "Malhotra, Jha and Ganesan",
+        "provider_type": "Pharmacy",
+        "address": "84/233\nSood, Munger 869191",
+        "phone": "07993007398",
+        "registration_date": "2018-04-22"
+    },
+    {
+        "provider_id": "PRV-000356",
+        "provider_name": "Johal LLC",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 40, Menon Nagar\nOrai-774476",
+        "phone": "07756962733",
+        "registration_date": "2018-05-23"
+    },
+    {
+        "provider_id": "PRV-000357",
+        "provider_name": "Lanka-Halder",
+        "provider_type": "Legal Service",
+        "address": "035, Kanda Zila\nAmravati-441703",
+        "phone": "5334124743",
+        "registration_date": "2022-07-20"
+    },
+    {
+        "provider_id": "PRV-000358",
+        "provider_name": "Sunder-Golla",
+        "provider_type": "Diagnostic Center",
+        "address": "67/30, Randhawa Path, Yamunanagar-187494",
+        "phone": "3826554557",
+        "registration_date": "2025-03-19"
+    },
+    {
+        "provider_id": "PRV-000359",
+        "provider_name": "Kara LLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 761, Grover Chowk\nYamunanagar 485233",
+        "phone": "04531228402",
+        "registration_date": "2017-11-23"
+    },
+    {
+        "provider_id": "PRV-000360",
+        "provider_name": "Gala and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "155\nChar Chowk, Amritsar-000184",
+        "phone": "+917453476633",
+        "registration_date": "2024-04-06"
+    },
+    {
+        "provider_id": "PRV-000361",
+        "provider_name": "Hegde-Gupta",
+        "provider_type": "Hospital",
+        "address": "01\nBhatia Zila\nMau-686086",
+        "phone": "00474105193",
+        "registration_date": "2019-07-16"
+    },
+    {
+        "provider_id": "PRV-000362",
+        "provider_name": "Nath, Barad and Loke",
+        "provider_type": "Vehicle Repair",
+        "address": "74/33\nVarughese Marg\nHaridwar-139943",
+        "phone": "+917360502571",
+        "registration_date": "2024-11-05"
+    },
+    {
+        "provider_id": "PRV-000363",
+        "provider_name": "Suresh, Mander and Randhawa",
+        "provider_type": "Vehicle Repair",
+        "address": "39/159\nMohan Marg, Agartala 886517",
+        "phone": "+913060707812",
+        "registration_date": "2018-08-28"
+    },
+    {
+        "provider_id": "PRV-000364",
+        "provider_name": "Narayanan-Kohli",
+        "provider_type": "Vehicle Repair",
+        "address": "432\nMistry, Siwan-081019",
+        "phone": "+911269058869",
+        "registration_date": "2025-10-17"
+    },
+    {
+        "provider_id": "PRV-000365",
+        "provider_name": "Anne-Iyengar",
+        "provider_type": "Diagnostic Center",
+        "address": "61/29, Mishra, Muzaffarpur-284025",
+        "phone": "+918605573619",
+        "registration_date": "2021-08-04"
+    },
+    {
+        "provider_id": "PRV-000366",
+        "provider_name": "Pant, Nadig and Korpal",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 83\nBaria Street, Kulti-701917",
+        "phone": "2036722756",
+        "registration_date": "2019-07-26"
+    },
+    {
+        "provider_id": "PRV-000367",
+        "provider_name": "Thaman-Mishra",
+        "provider_type": "Pharmacy",
+        "address": "90/83, Narain Zila\nJamnagar-198855",
+        "phone": "+912618176657",
+        "registration_date": "2017-02-22"
+    },
+    {
+        "provider_id": "PRV-000368",
+        "provider_name": "Sood, Krishnan and Gopal",
+        "provider_type": "Vehicle Repair",
+        "address": "86\nBawa Zila, Danapur 523239",
+        "phone": "0958062179",
+        "registration_date": "2026-04-24"
+    },
+    {
+        "provider_id": "PRV-000369",
+        "provider_name": "Dubey and Sons",
+        "provider_type": "Hospital",
+        "address": "H.No. 95\nBandi Road\nAnantapuram-328865",
+        "phone": "+913295434195",
+        "registration_date": "2026-02-24"
+    },
+    {
+        "provider_id": "PRV-000370",
+        "provider_name": "Gopal, Vala and Yadav",
+        "provider_type": "Legal Service",
+        "address": "37, Solanki Path\nSiwan 862249",
+        "phone": "4890348997",
+        "registration_date": "2018-03-08"
+    },
+    {
+        "provider_id": "PRV-000371",
+        "provider_name": "Sharma-Goyal",
+        "provider_type": "Hospital",
+        "address": "49, Shankar Road\nRaurkela Industrial Township-807197",
+        "phone": "+919874967809",
+        "registration_date": "2020-04-25"
+    },
+    {
+        "provider_id": "PRV-000372",
+        "provider_name": "Apte, Vyas and Bail",
+        "provider_type": "Pharmacy",
+        "address": "333, Amble Marg\nHazaribagh 836419",
+        "phone": "6694297960",
+        "registration_date": "2021-04-05"
+    },
+    {
+        "provider_id": "PRV-000373",
+        "provider_name": "Chhabra-Bakshi",
+        "provider_type": "Vehicle Repair",
+        "address": "94/48, Mohan Ganj\nJalandhar-664065",
+        "phone": "1242653509",
+        "registration_date": "2018-04-23"
+    },
+    {
+        "provider_id": "PRV-000374",
+        "provider_name": "Boase and Sons",
+        "provider_type": "Pharmacy",
+        "address": "06/40\nRau\nAvadi-442087",
+        "phone": "01639651621",
+        "registration_date": "2025-01-08"
+    },
+    {
+        "provider_id": "PRV-000375",
+        "provider_name": "Khare Inc",
+        "provider_type": "Hospital",
+        "address": "86, Saran Circle, Nellore 352678",
+        "phone": "2570894038",
+        "registration_date": "2021-05-21"
+    },
+    {
+        "provider_id": "PRV-000376",
+        "provider_name": "Dewan, Gandhi and Dyal",
+        "provider_type": "Diagnostic Center",
+        "address": "18, Bhalla Nagar, Kishanganj 085627",
+        "phone": "+910793060089",
+        "registration_date": "2022-09-18"
+    },
+    {
+        "provider_id": "PRV-000377",
+        "provider_name": "Vala-Madan",
+        "provider_type": "Hospital",
+        "address": "51\nKade Street\nSatna-551041",
+        "phone": "01879754755",
+        "registration_date": "2022-09-25"
+    },
+    {
+        "provider_id": "PRV-000378",
+        "provider_name": "Misra Ltd",
+        "provider_type": "Legal Service",
+        "address": "803\nDugar Marg, Allahabad 890689",
+        "phone": "+914663553917",
+        "registration_date": "2025-10-17"
+    },
+    {
+        "provider_id": "PRV-000379",
+        "provider_name": "Agarwal and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 071\nMemon Marg, Gorakhpur-266011",
+        "phone": "+911122690324",
+        "registration_date": "2019-11-22"
+    },
+    {
+        "provider_id": "PRV-000380",
+        "provider_name": "Sagar, More and Dutt",
+        "provider_type": "Hospital",
+        "address": "H.No. 58\nSule Circle\nJammu-205810",
+        "phone": "1220581302",
+        "registration_date": "2025-01-13"
+    },
+    {
+        "provider_id": "PRV-000381",
+        "provider_name": "Kadakia Group",
+        "provider_type": "Pharmacy",
+        "address": "78/239\nBadami Marg\nNagercoil 740283",
+        "phone": "9634485519",
+        "registration_date": "2020-04-14"
+    },
+    {
+        "provider_id": "PRV-000382",
+        "provider_name": "Narang Group",
+        "provider_type": "Legal Service",
+        "address": "70\nBalan Chowk, Gulbarga 106428",
+        "phone": "01251036288",
+        "registration_date": "2017-02-01"
+    },
+    {
+        "provider_id": "PRV-000383",
+        "provider_name": "Lanka-Narayan",
+        "provider_type": "Pharmacy",
+        "address": "34/089\nMistry Chowk, Rourkela-708090",
+        "phone": "+914541137609",
+        "registration_date": "2021-05-07"
+    },
+    {
+        "provider_id": "PRV-000384",
+        "provider_name": "Naik PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "609, Datta Nagar, Karnal 965235",
+        "phone": "04350164714",
+        "registration_date": "2025-08-21"
+    },
+    {
+        "provider_id": "PRV-000385",
+        "provider_name": "Sampath-Mammen",
+        "provider_type": "Hospital",
+        "address": "34/22, Sachdeva Path, Bhalswa Jahangir Pur-838692",
+        "phone": "06937699783",
+        "registration_date": "2017-08-14"
+    },
+    {
+        "provider_id": "PRV-000386",
+        "provider_name": "Rastogi-Basu",
+        "provider_type": "Vehicle Repair",
+        "address": "51/49\nVarty\nBegusarai-618407",
+        "phone": "6128760383",
+        "registration_date": "2025-06-28"
+    },
+    {
+        "provider_id": "PRV-000387",
+        "provider_name": "Swamy-Nayar",
+        "provider_type": "Diagnostic Center",
+        "address": "96/415\nDeo Nagar\nTumkur 088100",
+        "phone": "+919999187417",
+        "registration_date": "2016-12-28"
+    },
+    {
+        "provider_id": "PRV-000388",
+        "provider_name": "Bath, Borde and Kala",
+        "provider_type": "Vehicle Repair",
+        "address": "234, Varghese Road, Meerut-796468",
+        "phone": "6469998261",
+        "registration_date": "2023-04-02"
+    },
+    {
+        "provider_id": "PRV-000389",
+        "provider_name": "Soman LLC",
+        "provider_type": "Legal Service",
+        "address": "154\nBhalla\nMeerut 307991",
+        "phone": "3095331623",
+        "registration_date": "2024-07-03"
+    },
+    {
+        "provider_id": "PRV-000390",
+        "provider_name": "Kannan-Tailor",
+        "provider_type": "Diagnostic Center",
+        "address": "88/44, Loke Nagar\nHospet 153381",
+        "phone": "04186584260",
+        "registration_date": "2020-12-14"
+    },
+    {
+        "provider_id": "PRV-000391",
+        "provider_name": "Lall and Sons",
+        "provider_type": "Vehicle Repair",
+        "address": "57/597\nWason Nagar, Raebareli 224623",
+        "phone": "+912905544324",
+        "registration_date": "2019-04-20"
+    },
+    {
+        "provider_id": "PRV-000392",
+        "provider_name": "Hayre-Pal",
+        "provider_type": "Diagnostic Center",
+        "address": "42/96\nSavant Zila\nBelgaum-489081",
+        "phone": "+917440482859",
+        "registration_date": "2020-10-04"
+    },
+    {
+        "provider_id": "PRV-000393",
+        "provider_name": "Uppal, Ram and Dar",
+        "provider_type": "Pharmacy",
+        "address": "046, Nadig Marg, Ranchi 837477",
+        "phone": "00500129181",
+        "registration_date": "2019-10-05"
+    },
+    {
+        "provider_id": "PRV-000394",
+        "provider_name": "Tara-Bhargava",
+        "provider_type": "Hospital",
+        "address": "48/94, Dara Circle\nBhagalpur 141415",
+        "phone": "3617740428",
+        "registration_date": "2026-07-31"
+    },
+    {
+        "provider_id": "PRV-000395",
+        "provider_name": "Deshmukh Inc",
+        "provider_type": "Legal Service",
+        "address": "96, Murty Chowk, Pudukkottai 976830",
+        "phone": "2801785610",
+        "registration_date": "2018-10-07"
+    },
+    {
+        "provider_id": "PRV-000396",
+        "provider_name": "Soni-Palan",
+        "provider_type": "Pharmacy",
+        "address": "33/47, Sood Zila\nJaunpur-797854",
+        "phone": "+911482677757",
+        "registration_date": "2023-11-17"
+    },
+    {
+        "provider_id": "PRV-000397",
+        "provider_name": "Batta and Sons",
+        "provider_type": "Hospital",
+        "address": "06/28, Virk Path\nShivpuri-022906",
+        "phone": "02519353915",
+        "registration_date": "2024-07-04"
+    },
+    {
+        "provider_id": "PRV-000398",
+        "provider_name": "Gade, Soman and Dutt",
+        "provider_type": "Pharmacy",
+        "address": "64\nBrahmbhatt, Nandyal 107242",
+        "phone": "+911512493346",
+        "registration_date": "2025-09-14"
+    },
+    {
+        "provider_id": "PRV-000399",
+        "provider_name": "Bhavsar PLC",
+        "provider_type": "Legal Service",
+        "address": "63/146\nRay Street, Bihar Sharif-779405",
+        "phone": "+913169401175",
+        "registration_date": "2019-03-01"
+    },
+    {
+        "provider_id": "PRV-000400",
+        "provider_name": "Devi, Kapoor and Natarajan",
+        "provider_type": "Diagnostic Center",
+        "address": "51\nSandhu Road\nKurnool 521176",
+        "phone": "6351761957",
+        "registration_date": "2019-07-03"
+    },
+    {
+        "provider_id": "PRV-000401",
+        "provider_name": "Dubey Group",
+        "provider_type": "Legal Service",
+        "address": "H.No. 01\nKannan Marg\nSurat-925596",
+        "phone": "+916577575963",
+        "registration_date": "2019-08-22"
+    },
+    {
+        "provider_id": "PRV-000402",
+        "provider_name": "Nanda, Malhotra and Rastogi",
+        "provider_type": "Pharmacy",
+        "address": "479\nChana\nBidar-355002",
+        "phone": "5124560537",
+        "registration_date": "2021-01-04"
+    },
+    {
+        "provider_id": "PRV-000403",
+        "provider_name": "Ghosh, Master and Handa",
+        "provider_type": "Legal Service",
+        "address": "80\nWali Road\nHubli–Dharwad-506327",
+        "phone": "05898173272",
+        "registration_date": "2019-05-18"
+    },
+    {
+        "provider_id": "PRV-000404",
+        "provider_name": "Kade-Joshi",
+        "provider_type": "Hospital",
+        "address": "78/662, Sarma Circle, Bhiwandi 342587",
+        "phone": "+917249835101",
+        "registration_date": "2024-03-23"
+    },
+    {
+        "provider_id": "PRV-000405",
+        "provider_name": "Mallick and Sons",
+        "provider_type": "Legal Service",
+        "address": "H.No. 306, Kale Circle, Allahabad 769314",
+        "phone": "09878724777",
+        "registration_date": "2023-01-25"
+    },
+    {
+        "provider_id": "PRV-000406",
+        "provider_name": "Brahmbhatt LLC",
+        "provider_type": "Legal Service",
+        "address": "H.No. 717\nDugar Ganj, Sambhal 780098",
+        "phone": "05134924311",
+        "registration_date": "2021-07-02"
+    },
+    {
+        "provider_id": "PRV-000407",
+        "provider_name": "Rao, Chahal and Wable",
+        "provider_type": "Diagnostic Center",
+        "address": "19, Rajagopal Chowk, Dibrugarh 953024",
+        "phone": "+916462923039",
+        "registration_date": "2026-01-25"
+    },
+    {
+        "provider_id": "PRV-000408",
+        "provider_name": "Acharya LLC",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 737, Shetty Ganj\nSatna 128284",
+        "phone": "+912011723704",
+        "registration_date": "2026-06-25"
+    },
+    {
+        "provider_id": "PRV-000409",
+        "provider_name": "Mangat-Bose",
+        "provider_type": "Hospital",
+        "address": "01/732, Dave Ganj, Sagar 141655",
+        "phone": "06539576328",
+        "registration_date": "2024-09-06"
+    },
+    {
+        "provider_id": "PRV-000410",
+        "provider_name": "Mahal, Khosla and Chopra",
+        "provider_type": "Vehicle Repair",
+        "address": "31, Sridhar Zila\nOrai 294914",
+        "phone": "+910594403075",
+        "registration_date": "2021-03-26"
+    },
+    {
+        "provider_id": "PRV-000411",
+        "provider_name": "Chahal-Mishra",
+        "provider_type": "Hospital",
+        "address": "42/82\nPillai Path, Guntakal 333784",
+        "phone": "5366615559",
+        "registration_date": "2017-11-26"
+    },
+    {
+        "provider_id": "PRV-000412",
+        "provider_name": "Kalita, Doctor and Bora",
+        "provider_type": "Hospital",
+        "address": "54\nBuch Ganj, Khammam 912551",
+        "phone": "01520520989",
+        "registration_date": "2019-04-26"
+    },
+    {
+        "provider_id": "PRV-000413",
+        "provider_name": "Chandra, Sachdeva and Mutti",
+        "provider_type": "Hospital",
+        "address": "16/83, Buch Circle\nPallavaram-764093",
+        "phone": "02368342081",
+        "registration_date": "2023-03-27"
+    },
+    {
+        "provider_id": "PRV-000414",
+        "provider_name": "Nagarajan and Sons",
+        "provider_type": "Legal Service",
+        "address": "H.No. 33, Sabharwal Nagar, Patna 384808",
+        "phone": "1351423335",
+        "registration_date": "2026-09-23"
+    },
+    {
+        "provider_id": "PRV-000415",
+        "provider_name": "Dash-Keer",
+        "provider_type": "Legal Service",
+        "address": "320, Borde Street\nHubli–Dharwad 541007",
+        "phone": "5381495840",
+        "registration_date": "2023-08-19"
+    },
+    {
+        "provider_id": "PRV-000416",
+        "provider_name": "Sachdeva-Acharya",
+        "provider_type": "Hospital",
+        "address": "H.No. 474, Toor Nagar, Ambarnath 843812",
+        "phone": "+915373567396",
+        "registration_date": "2021-08-25"
+    },
+    {
+        "provider_id": "PRV-000417",
+        "provider_name": "Kunda, Thakur and Dara",
+        "provider_type": "Diagnostic Center",
+        "address": "74/658, Soman Zila\nChapra 322754",
+        "phone": "7266336867",
+        "registration_date": "2022-05-28"
+    },
+    {
+        "provider_id": "PRV-000418",
+        "provider_name": "Minhas and Sons",
+        "provider_type": "Hospital",
+        "address": "H.No. 55\nMutti Circle, Saharanpur-017569",
+        "phone": "01736813357",
+        "registration_date": "2022-11-18"
+    },
+    {
+        "provider_id": "PRV-000419",
+        "provider_name": "Char Inc",
+        "provider_type": "Vehicle Repair",
+        "address": "793\nChada Path\nSangli-Miraj & Kupwad 028360",
+        "phone": "7484536908",
+        "registration_date": "2018-12-26"
+    },
+    {
+        "provider_id": "PRV-000420",
+        "provider_name": "Sharma, Oommen and Pall",
+        "provider_type": "Legal Service",
+        "address": "96/615, Pillai Street, Bally 228132",
+        "phone": "4383186392",
+        "registration_date": "2020-08-08"
+    },
+    {
+        "provider_id": "PRV-000421",
+        "provider_name": "Lata Group",
+        "provider_type": "Hospital",
+        "address": "682, Mahal Circle, Chandigarh 052143",
+        "phone": "00784624247",
+        "registration_date": "2020-08-02"
+    },
+    {
+        "provider_id": "PRV-000422",
+        "provider_name": "Garg-Mander",
+        "provider_type": "Pharmacy",
+        "address": "45/45\nDatta, Siliguri-022882",
+        "phone": "+916523652459",
+        "registration_date": "2020-08-13"
+    },
+    {
+        "provider_id": "PRV-000423",
+        "provider_name": "Pall Ltd",
+        "provider_type": "Hospital",
+        "address": "H.No. 43\nMurthy Road, Bihar Sharif 523745",
+        "phone": "+916801299427",
+        "registration_date": "2025-10-14"
+    },
+    {
+        "provider_id": "PRV-000424",
+        "provider_name": "Bahri PLC",
+        "provider_type": "Hospital",
+        "address": "H.No. 47\nPatel Ganj\nKatni-899603",
+        "phone": "+911431226179",
+        "registration_date": "2019-05-16"
+    },
+    {
+        "provider_id": "PRV-000425",
+        "provider_name": "Basu, Viswanathan and Raman",
+        "provider_type": "Pharmacy",
+        "address": "63\nPrashad Marg\nVaranasi-923314",
+        "phone": "07400817180",
+        "registration_date": "2026-09-20"
+    },
+    {
+        "provider_id": "PRV-000426",
+        "provider_name": "Dugar PLC",
+        "provider_type": "Diagnostic Center",
+        "address": "92\nSinha Marg\nImphal 099977",
+        "phone": "+913757278956",
+        "registration_date": "2025-05-31"
+    },
+    {
+        "provider_id": "PRV-000427",
+        "provider_name": "Mall, Sibal and Yadav",
+        "provider_type": "Legal Service",
+        "address": "H.No. 21, Malhotra Chowk, Howrah-898843",
+        "phone": "+912786510260",
+        "registration_date": "2023-01-19"
+    },
+    {
+        "provider_id": "PRV-000428",
+        "provider_name": "Ahuja PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "63\nDugar, Machilipatnam 503394",
+        "phone": "2695199037",
+        "registration_date": "2024-01-09"
+    },
+    {
+        "provider_id": "PRV-000429",
+        "provider_name": "Rege-Bedi",
+        "provider_type": "Vehicle Repair",
+        "address": "079, Agrawal Ganj\nUdaipur 207581",
+        "phone": "7360788076",
+        "registration_date": "2019-10-25"
+    },
+    {
+        "provider_id": "PRV-000430",
+        "provider_name": "Salvi Inc",
+        "provider_type": "Hospital",
+        "address": "337, Ganesh Circle, Arrah 175780",
+        "phone": "09921336358",
+        "registration_date": "2021-01-11"
+    },
+    {
+        "provider_id": "PRV-000431",
+        "provider_name": "Rattan-Kumar",
+        "provider_type": "Hospital",
+        "address": "84/48, Hora Marg, Saharsa 461932",
+        "phone": "08360262600",
+        "registration_date": "2023-06-30"
+    },
+    {
+        "provider_id": "PRV-000432",
+        "provider_name": "Butala Ltd",
+        "provider_type": "Diagnostic Center",
+        "address": "06/42\nAgarwal Zila\nSaharsa 924190",
+        "phone": "1075585293",
+        "registration_date": "2026-03-03"
+    },
+    {
+        "provider_id": "PRV-000433",
+        "provider_name": "Shankar PLC",
+        "provider_type": "Hospital",
+        "address": "H.No. 653\nParikh Zila\nBhind 704138",
+        "phone": "06485040479",
+        "registration_date": "2020-08-16"
+    },
+    {
+        "provider_id": "PRV-000434",
+        "provider_name": "Pingle-Pathak",
+        "provider_type": "Hospital",
+        "address": "H.No. 04, Menon Ganj, Uluberia 762952",
+        "phone": "08796621329",
+        "registration_date": "2021-01-13"
+    },
+    {
+        "provider_id": "PRV-000435",
+        "provider_name": "Dewan, Pandya and Kaul",
+        "provider_type": "Vehicle Repair",
+        "address": "85, Thakkar Street, Bhiwandi-571623",
+        "phone": "00018118461",
+        "registration_date": "2024-01-14"
+    },
+    {
+        "provider_id": "PRV-000436",
+        "provider_name": "Korpal-Dhar",
+        "provider_type": "Pharmacy",
+        "address": "645, D’Alia Ganj, Sasaram 092099",
+        "phone": "+912023968082",
+        "registration_date": "2017-03-06"
+    },
+    {
+        "provider_id": "PRV-000437",
+        "provider_name": "Sankaran, Rau and Narain",
+        "provider_type": "Diagnostic Center",
+        "address": "25/527, Sood Street\nGaya 350448",
+        "phone": "2733020032",
+        "registration_date": "2024-04-12"
+    },
+    {
+        "provider_id": "PRV-000438",
+        "provider_name": "Bhardwaj Group",
+        "provider_type": "Pharmacy",
+        "address": "68/83\nSama Ganj, Bareilly 746268",
+        "phone": "02138944482",
+        "registration_date": "2023-03-11"
+    },
+    {
+        "provider_id": "PRV-000439",
+        "provider_name": "Taneja-Arora",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 435, Chakrabarti Marg, Udaipur-229217",
+        "phone": "6397503996",
+        "registration_date": "2018-03-10"
+    },
+    {
+        "provider_id": "PRV-000440",
+        "provider_name": "Ahuja Group",
+        "provider_type": "Legal Service",
+        "address": "H.No. 185\nBera Path\nBegusarai 804352",
+        "phone": "+913151453368",
+        "registration_date": "2017-04-09"
+    },
+    {
+        "provider_id": "PRV-000441",
+        "provider_name": "Sant Group",
+        "provider_type": "Hospital",
+        "address": "H.No. 97, Dugar Zila\nBilaspur 169899",
+        "phone": "+915419893655",
+        "registration_date": "2022-01-04"
+    },
+    {
+        "provider_id": "PRV-000442",
+        "provider_name": "Murty-Jain",
+        "provider_type": "Pharmacy",
+        "address": "59/391, Agarwal Marg, South Dumdum-441631",
+        "phone": "01085117131",
+        "registration_date": "2024-01-30"
+    },
+    {
+        "provider_id": "PRV-000443",
+        "provider_name": "Bail-Arya",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 12, Kurian, Panvel-332827",
+        "phone": "4126278599",
+        "registration_date": "2018-07-13"
+    },
+    {
+        "provider_id": "PRV-000444",
+        "provider_name": "Pingle LLC",
+        "provider_type": "Legal Service",
+        "address": "244\nSarma Marg, Singrauli-576505",
+        "phone": "+912034024591",
+        "registration_date": "2020-07-18"
+    },
+    {
+        "provider_id": "PRV-000445",
+        "provider_name": "Karan-Kala",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 975\nBhasin Path, Hindupur-556660",
+        "phone": "0078298318",
+        "registration_date": "2018-01-18"
+    },
+    {
+        "provider_id": "PRV-000446",
+        "provider_name": "Chacko PLC",
+        "provider_type": "Hospital",
+        "address": "057\nSachar Nagar\nFaridabad 822814",
+        "phone": "07289461781",
+        "registration_date": "2018-09-25"
+    },
+    {
+        "provider_id": "PRV-000447",
+        "provider_name": "Subramanian, Sant and Pradhan",
+        "provider_type": "Legal Service",
+        "address": "95/659, Shenoy Road\nBellary-549702",
+        "phone": "1364956854",
+        "registration_date": "2023-09-07"
+    },
+    {
+        "provider_id": "PRV-000448",
+        "provider_name": "Nair-Cheema",
+        "provider_type": "Hospital",
+        "address": "81/42\nCheema Street, Allahabad 042361",
+        "phone": "7457739463",
+        "registration_date": "2023-04-23"
+    },
+    {
+        "provider_id": "PRV-000449",
+        "provider_name": "Char Inc",
+        "provider_type": "Legal Service",
+        "address": "89/572, Varghese Nagar, Sambalpur 996906",
+        "phone": "9982698262",
+        "registration_date": "2018-09-16"
+    },
+    {
+        "provider_id": "PRV-000450",
+        "provider_name": "Deol Ltd",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 67, Bajaj Chowk, Bhatpara-695565",
+        "phone": "+914276415288",
+        "registration_date": "2026-04-12"
+    },
+    {
+        "provider_id": "PRV-000451",
+        "provider_name": "Tandon, Sachar and Dutta",
+        "provider_type": "Hospital",
+        "address": "76/38\nGour Nagar, Jaipur 768441",
+        "phone": "04100713486",
+        "registration_date": "2019-02-10"
+    },
+    {
+        "provider_id": "PRV-000452",
+        "provider_name": "Deo PLC",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 75, Kant Marg, Darbhanga-837433",
+        "phone": "+917850176904",
+        "registration_date": "2018-01-01"
+    },
+    {
+        "provider_id": "PRV-000453",
+        "provider_name": "Natarajan, Karan and Chawla",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 20\nSankaran Zila\nTadepalligudem-836929",
+        "phone": "0132772749",
+        "registration_date": "2026-02-10"
+    },
+    {
+        "provider_id": "PRV-000454",
+        "provider_name": "Bhalla Ltd",
+        "provider_type": "Vehicle Repair",
+        "address": "65/90, Pathak Nagar, Bettiah-309446",
+        "phone": "+917366600489",
+        "registration_date": "2022-04-14"
+    },
+    {
+        "provider_id": "PRV-000455",
+        "provider_name": "Peri Inc",
+        "provider_type": "Pharmacy",
+        "address": "43, Shanker Circle\nPanipat 383910",
+        "phone": "+913175466157",
+        "registration_date": "2018-10-03"
+    },
+    {
+        "provider_id": "PRV-000456",
+        "provider_name": "Jain, Atwal and Wadhwa",
+        "provider_type": "Legal Service",
+        "address": "H.No. 863\nGrover\nSecunderabad 374836",
+        "phone": "+911954829103",
+        "registration_date": "2024-10-21"
+    },
+    {
+        "provider_id": "PRV-000457",
+        "provider_name": "Date-Issac",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 54\nOommen Road, Sangli-Miraj & Kupwad-435386",
+        "phone": "1243127944",
+        "registration_date": "2026-10-17"
+    },
+    {
+        "provider_id": "PRV-000458",
+        "provider_name": "Varghese-Gill",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 85\nManda Street, Madurai-841886",
+        "phone": "+917610283222",
+        "registration_date": "2025-03-08"
+    },
+    {
+        "provider_id": "PRV-000459",
+        "provider_name": "Korpal Inc",
+        "provider_type": "Vehicle Repair",
+        "address": "186, Solanki Zila, Tirunelveli 577375",
+        "phone": "05380770046",
+        "registration_date": "2025-03-21"
+    },
+    {
+        "provider_id": "PRV-000460",
+        "provider_name": "Sura, Grover and Kanda",
+        "provider_type": "Pharmacy",
+        "address": "55/599\nRajagopalan Circle, Thoothukudi-672329",
+        "phone": "+917123607015",
+        "registration_date": "2025-06-07"
+    },
+    {
+        "provider_id": "PRV-000461",
+        "provider_name": "Chad-Boase",
+        "provider_type": "Hospital",
+        "address": "H.No. 496, Goswami Road, Surendranagar Dudhrej 224665",
+        "phone": "+913448161706",
+        "registration_date": "2025-03-23"
+    },
+    {
+        "provider_id": "PRV-000462",
+        "provider_name": "Saxena-Manda",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 59, Vora Circle\nSuryapet 479648",
+        "phone": "7805202206",
+        "registration_date": "2025-03-29"
+    },
+    {
+        "provider_id": "PRV-000463",
+        "provider_name": "Munshi-Maharaj",
+        "provider_type": "Pharmacy",
+        "address": "14/74, Kumar, Madurai-768706",
+        "phone": "+919093738111",
+        "registration_date": "2025-09-11"
+    },
+    {
+        "provider_id": "PRV-000464",
+        "provider_name": "Prabhu Group",
+        "provider_type": "Hospital",
+        "address": "64/64, More Nagar\nMango-453272",
+        "phone": "+918615069124",
+        "registration_date": "2025-04-26"
+    },
+    {
+        "provider_id": "PRV-000465",
+        "provider_name": "Dugar, Chandra and Bora",
+        "provider_type": "Hospital",
+        "address": "H.No. 886, Vaidya Chowk, Vijayanagaram-449709",
+        "phone": "7604211905",
+        "registration_date": "2018-02-23"
+    },
+    {
+        "provider_id": "PRV-000466",
+        "provider_name": "Bassi, Bath and Seth",
+        "provider_type": "Legal Service",
+        "address": "44\nHayer Circle\nNarasaraopet-432610",
+        "phone": "9491835680",
+        "registration_date": "2017-09-20"
+    },
+    {
+        "provider_id": "PRV-000467",
+        "provider_name": "Dash-Nagarajan",
+        "provider_type": "Hospital",
+        "address": "H.No. 56, Nagi Street, Mahbubnagar 894865",
+        "phone": "+916938302689",
+        "registration_date": "2020-11-09"
+    },
+    {
+        "provider_id": "PRV-000468",
+        "provider_name": "Lala-Kaul",
+        "provider_type": "Vehicle Repair",
+        "address": "12/940\nMurthy, Ghaziabad 496386",
+        "phone": "+915173556902",
+        "registration_date": "2021-03-15"
+    },
+    {
+        "provider_id": "PRV-000469",
+        "provider_name": "Mani, Vohra and Tara",
+        "provider_type": "Pharmacy",
+        "address": "634, Pandya Marg\nSrikakulam 700905",
+        "phone": "1857417383",
+        "registration_date": "2021-11-18"
+    },
+    {
+        "provider_id": "PRV-000470",
+        "provider_name": "Kamdar Group",
+        "provider_type": "Hospital",
+        "address": "95\nGara Nagar, Alappuzha-627639",
+        "phone": "8696023334",
+        "registration_date": "2023-08-14"
+    },
+    {
+        "provider_id": "PRV-000471",
+        "provider_name": "Prabhakar, Agarwal and Kakar",
+        "provider_type": "Legal Service",
+        "address": "72/98\nDora Ganj, Vijayawada-499684",
+        "phone": "+912892888218",
+        "registration_date": "2017-01-17"
+    },
+    {
+        "provider_id": "PRV-000472",
+        "provider_name": "Chand PLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 541\nHanda Street\nMadanapalle-372658",
+        "phone": "00336807890",
+        "registration_date": "2026-03-19"
+    },
+    {
+        "provider_id": "PRV-000473",
+        "provider_name": "Narasimhan, Vohra and Sawhney",
+        "provider_type": "Hospital",
+        "address": "H.No. 437, Gandhi Path\nAligarh-182435",
+        "phone": "08900877008",
+        "registration_date": "2019-09-17"
+    },
+    {
+        "provider_id": "PRV-000474",
+        "provider_name": "Tandon-Roy",
+        "provider_type": "Pharmacy",
+        "address": "435\nSankar Path\nNaihati-368054",
+        "phone": "6233827213",
+        "registration_date": "2020-12-04"
+    },
+    {
+        "provider_id": "PRV-000475",
+        "provider_name": "Ratta, Agate and Balay",
+        "provider_type": "Pharmacy",
+        "address": "179, Bajaj Chowk, Tadipatri 351363",
+        "phone": "+914220723307",
+        "registration_date": "2023-03-22"
+    },
+    {
+        "provider_id": "PRV-000476",
+        "provider_name": "Agrawal PLC",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 75, Tata Path, Vadodara 564102",
+        "phone": "0954620859",
+        "registration_date": "2021-07-22"
+    },
+    {
+        "provider_id": "PRV-000477",
+        "provider_name": "Boase PLC",
+        "provider_type": "Diagnostic Center",
+        "address": "30/323\nJaggi Street, Pali-931741",
+        "phone": "03736692236",
+        "registration_date": "2018-04-04"
+    },
+    {
+        "provider_id": "PRV-000478",
+        "provider_name": "Sandhu PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "59/94\nSalvi Chowk, Madurai 676689",
+        "phone": "+919835977966",
+        "registration_date": "2018-12-28"
+    },
+    {
+        "provider_id": "PRV-000479",
+        "provider_name": "Guha, Rajan and Soman",
+        "provider_type": "Legal Service",
+        "address": "567, Ganesan Road\nJhansi 761382",
+        "phone": "6469276441",
+        "registration_date": "2024-02-14"
+    },
+    {
+        "provider_id": "PRV-000480",
+        "provider_name": "Keer, Dhingra and Datta",
+        "provider_type": "Legal Service",
+        "address": "H.No. 472\nGera Circle, Srinagar 640983",
+        "phone": "5249222364",
+        "registration_date": "2025-02-11"
+    },
+    {
+        "provider_id": "PRV-000481",
+        "provider_name": "Randhawa-Sandal",
+        "provider_type": "Legal Service",
+        "address": "13/631\nChander Chowk, Vadodara-830846",
+        "phone": "07245456561",
+        "registration_date": "2020-04-28"
+    },
+    {
+        "provider_id": "PRV-000482",
+        "provider_name": "Bobal-Srivastava",
+        "provider_type": "Vehicle Repair",
+        "address": "670\nCherian Street\nNagercoil-127613",
+        "phone": "4610947824",
+        "registration_date": "2018-05-24"
+    },
+    {
+        "provider_id": "PRV-000483",
+        "provider_name": "Sur-Dubey",
+        "provider_type": "Legal Service",
+        "address": "72, Sankaran Chowk, Vadodara-717813",
+        "phone": "06028941558",
+        "registration_date": "2019-07-12"
+    },
+    {
+        "provider_id": "PRV-000484",
+        "provider_name": "Korpal Ltd",
+        "provider_type": "Legal Service",
+        "address": "06/573\nCheema Zila\nBhiwandi-882142",
+        "phone": "08292248881",
+        "registration_date": "2026-01-14"
+    },
+    {
+        "provider_id": "PRV-000485",
+        "provider_name": "Mangal Group",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 433, Nigam Chowk\nNadiad 292128",
+        "phone": "06231049174",
+        "registration_date": "2023-04-05"
+    },
+    {
+        "provider_id": "PRV-000486",
+        "provider_name": "Garde Group",
+        "provider_type": "Diagnostic Center",
+        "address": "24, Thaman Circle\nPanchkula-272146",
+        "phone": "9852393034",
+        "registration_date": "2016-12-15"
+    },
+    {
+        "provider_id": "PRV-000487",
+        "provider_name": "Dani-Barad",
+        "provider_type": "Legal Service",
+        "address": "33/02, Gandhi Chowk\nPanchkula-517414",
+        "phone": "2540559719",
+        "registration_date": "2026-09-09"
+    },
+    {
+        "provider_id": "PRV-000488",
+        "provider_name": "Madan LLC",
+        "provider_type": "Hospital",
+        "address": "35, Din, Belgaum-099081",
+        "phone": "+917659591777",
+        "registration_date": "2022-03-23"
+    },
+    {
+        "provider_id": "PRV-000489",
+        "provider_name": "Chana, Bumb and Sidhu",
+        "provider_type": "Vehicle Repair",
+        "address": "06/39, Bedi Street, Eluru 516792",
+        "phone": "01840345154",
+        "registration_date": "2017-06-27"
+    },
+    {
+        "provider_id": "PRV-000490",
+        "provider_name": "Varughese, Doshi and Sagar",
+        "provider_type": "Vehicle Repair",
+        "address": "569, Bali Marg\nAizawl-346300",
+        "phone": "2687702056",
+        "registration_date": "2019-08-30"
+    },
+    {
+        "provider_id": "PRV-000491",
+        "provider_name": "Lall Inc",
+        "provider_type": "Diagnostic Center",
+        "address": "H.No. 324, Sood Path, Kurnool 083354",
+        "phone": "7793180187",
+        "registration_date": "2018-06-04"
+    },
+    {
+        "provider_id": "PRV-000492",
+        "provider_name": "Mannan-Magar",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 330\nSachar Ganj, Durg 697222",
+        "phone": "1023200555",
+        "registration_date": "2021-12-07"
+    },
+    {
+        "provider_id": "PRV-000493",
+        "provider_name": "Kibe Ltd",
+        "provider_type": "Vehicle Repair",
+        "address": "58/32, Sethi Street\nWarangal-680935",
+        "phone": "1403710350",
+        "registration_date": "2020-03-23"
+    },
+    {
+        "provider_id": "PRV-000494",
+        "provider_name": "Rana, Dani and Sidhu",
+        "provider_type": "Diagnostic Center",
+        "address": "44\nSachar Chowk\nBuxar 757525",
+        "phone": "+911186925553",
+        "registration_date": "2023-02-16"
+    },
+    {
+        "provider_id": "PRV-000495",
+        "provider_name": "Bir PLC",
+        "provider_type": "Vehicle Repair",
+        "address": "H.No. 67\nTata Circle, Hosur-714481",
+        "phone": "4439556658",
+        "registration_date": "2017-04-23"
+    },
+    {
+        "provider_id": "PRV-000496",
+        "provider_name": "Magar-Ganguly",
+        "provider_type": "Diagnostic Center",
+        "address": "80\nDutta Road, Surendranagar Dudhrej 601423",
+        "phone": "+917188092809",
+        "registration_date": "2026-09-01"
+    },
+    {
+        "provider_id": "PRV-000497",
+        "provider_name": "Bhakta PLC",
+        "provider_type": "Legal Service",
+        "address": "28/683\nMannan\nBhilwara-754613",
+        "phone": "+917075517815",
+        "registration_date": "2019-06-01"
+    },
+    {
+        "provider_id": "PRV-000498",
+        "provider_name": "Om, Vasa and Sant",
+        "provider_type": "Diagnostic Center",
+        "address": "38, Chawla Ganj, Sambalpur-528415",
+        "phone": "+914869214027",
+        "registration_date": "2023-09-17"
+    },
+    {
+        "provider_id": "PRV-000499",
+        "provider_name": "Vig Group",
+        "provider_type": "Diagnostic Center",
+        "address": "041, Chaudhari Road, Sambalpur-554437",
+        "phone": "5451499463",
+        "registration_date": "2025-12-12"
+    },
+    {
+        "provider_id": "PRV-000500",
+        "provider_name": "Borde, Prabhu and Basak",
+        "provider_type": "Pharmacy",
+        "address": "H.No. 76\nTiwari Street, Ghaziabad 725248",
+        "phone": "2661608122",
+        "registration_date": "2019-12-24"
+    }
+]
